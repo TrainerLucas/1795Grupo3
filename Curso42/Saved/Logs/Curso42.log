@@ -1421,3 +1421,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.09.21-00.11.30:832][  3]LogAssetRegistry: AssetRegistryGather time 18.9928s: AssetDataDiscovery 0.1604s, AssetDataGather 18.6379s, StoreResults 0.1946s.
 [2024.09.21-00.11.31:437][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001806 seconds (updated 0 objects)
 [2024.09.21-00.11.32:986][  7]LogSlate: Took 0.001313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.09.21-00.11.46:894][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
