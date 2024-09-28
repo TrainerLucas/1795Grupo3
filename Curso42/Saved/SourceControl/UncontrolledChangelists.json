@@ -5,12 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
-				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
-				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
-				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
-				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
-				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
 				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/Mundo_Exterior.umap",
 				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/PB/QA7PW14EUOHT3VESYHE7DO.uasset",
 				"D:/UnrealGrupo3/Curso42/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/0/OA/90IEDXZGP3VR6T8ADX6RK9.uasset",
@@ -38,6 +32,18 @@
 				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/Mazmorra_1.umap",
 				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/Mazmorra_2.umap",
 				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/Mazmorra_3.umap",
+				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/Daylight_Box_UV.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/M_Sky.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/cubemapmat.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/Domo.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/e88a3be821cca79bc9ec203b926c7c1e.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/Personal_Maxi/_GENERATED/maxi/CubeGridToolOutput_396EE865.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MS/MRHJREJ6H7USQYWF1KO8F6.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/9Q/U98KGKQ41NJYFOGFQM8ZDY.uasset",
+				"D:/UnrealGrupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
 				"C:/Users/Rama/Documents/Unreal Projects/Nueva carpeta/Curso42/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
