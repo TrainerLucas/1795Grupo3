@@ -1675,3 +1675,48 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.12.06-23.33.00:787][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F45C3602_1411409711
 [2024.12.06-23.33.00:787][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
 [2024.12.06-23.33.07:407][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.12.06-23.34.42:819][716]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2044.362915
+[2024.12.06-23.34.43:820][719]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.06-23.34.43:820][719]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2045.027710, Update Interval: 356.030151
+[2024.12.06-23.38.06:498][638]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/carpeta_thiago/widget_blueprint/HUD.HUD
+[2024.12.06-23.38.06:523][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-23.38.06:545][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-23.38.06:593][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-23.38.06:593][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-23.38.44:322][737]LogInterchangeEngine: [Pending] Importing
+[2024.12.06-23.38.44:322][737]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downloads/barra_de_vida-removebg-preview.png]
+[2024.12.06-23.38.44:350][738]LogInterchangeEngine: [Pending] Importing
+[2024.12.06-23.38.44:639][738]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.12.06-23.38.44:693][739]LogTexture: Display: Building textures: /Game/carpeta_thiago/widget_blueprint/barra_de_vida-removebg-preview.barra_de_vida-removebg-preview (TFO_AutoDXT, 588x424 x1x1x1) (Required Memory Estimate: 44.591064 MB), EncodeSpeed: Fast
+[2024.12.06-23.38.44:979][739]LogInterchangeEngine: [Success] Import Done
+[2024.12.06-23.38.45:067][740]LogInterchangeEngine: [Success] Import Done
+[2024.12.06-23.40.28:384][372]BlueprintLog: New page: Compile HUD
+[2024.12.06-23.40.28:448][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2024.12.06-23.40.39:267][987]BlueprintLog: New page: Compile HUD
+[2024.12.06-23.40.39:298][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.06-23.40.40:014][ 14]BlueprintLog: New page: Compile HUD
+[2024.12.06-23.40.40:042][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.12.06-23.40.40:715][ 41]BlueprintLog: New page: Compile HUD
+[2024.12.06-23.40.40:743][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.12.06-23.40.41:508][ 74]BlueprintLog: New page: Compile HUD
+[2024.12.06-23.40.41:536][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.12.06-23.40.47:501][412]LogSlate: Window 'HUD' being destroyed
+[2024.12.06-23.40.47:537][412]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.40.47:541][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.40.47:564][412]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.40.47:564][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.40.49:529][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.06-23.40.50:818][526]LogSlate: Window 'Save Content' being destroyed
+[2024.12.06-23.40.50:830][526]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-23.40.50:900][526]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/widget_blueprint/barra_de_vida-removebg-preview
+[2024.12.06-23.40.50:900][526]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/barra_de_vida-removebg-preview6BD3AB0F4A1F9522E44FDB99B66BDA5C.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/widget_blueprint/barra_de_vida-removebg-preview.uasset'
+[2024.12.06-23.40.50:919][526]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/widget_blueprint/HUD
+[2024.12.06-23.40.50:920][526]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/HUDE41A9C1040151FDB453FCEA8AA9C41AB.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/widget_blueprint/HUD.uasset'
+[2024.12.06-23.40.50:933][526]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.93 sec)
+[2024.12.06-23.40.50:938][526]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.06-23.40.50:938][526]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/widget_blueprint/barra_de_vida-removebg-preview.barra_de_vida-removebg-preview
+[2024.12.06-23.40.50:938][526]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/carpeta_thiago/widget_blueprint/HUD.HUD
+[2024.12.06-23.40.52:998][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.06-23.41.12:652][294]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2434.193359
+[2024.12.06-23.41.13:656][297]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.06-23.41.13:656][297]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2434.860840, Update Interval: 355.233612
