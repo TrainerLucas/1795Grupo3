@@ -2992,3 +2992,1299 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.06-23.47.39:993][131]AssetCheck: New page: Asset Save: multiple assets
 [2024.12.06-23.47.39:993][131]LogContentValidation: Display: Validating /Game/Personal_Rama/Enemys/BP_Enemy.BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_D85ED3FA40F2F43102_1396960183
 [2024.12.06-23.47.39:993][131]LogContentValidation: Display: Validating /Game/Personal_Rama/Enemys/BP_Enemy.BP_Enemy_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_Enemy_C_UAID_D85ED3FA40F25D3602_1350723887
+[2024.12.06-23.51.50:060][951]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/carpeta_thiago/interactuables/chest/source/Low-poly_Chest/BP_tapa_de_cofre.
+[2024.12.06-23.51.51:343][955]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/carpeta_thiago/tron/BP_tron.
+[2024.12.06-23.51.51:346][955]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/carpeta_thiago/tron/animaciones/ANIMATION_B_TRON.
+[2024.12.06-23.51.51:350][955]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/carpeta_thiago/widget_blueprint/HUD.
+[2024.12.06-23.51.52:406][958]AssetReimport: New page: Outstanding source content changes 17:51:52
+[2024.12.06-23.51.52:842][958]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_01.fbx]
+[2024.12.06-23.51.52:888][958]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_01.fbx
+[2024.12.06-23.51.52:940][958]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.53:330][958]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.53:675][958]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.071 Y=-0.001 Z=0.118, BoxExtent=(X=7.571 Y=11.253 Z=1.972), SphereRadius=(13.705060)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.075, BoxExtent=(X=7.500 Y=11.250 Z=1.925), SphereRadius=(13.657165)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_01.SM_Book_01
+[2024.12.06-23.51.53:726][959]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bench_01.fbx]
+[2024.12.06-23.51.53:733][959]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bench_01.fbx
+[2024.12.06-23.51.53:738][959]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.53:762][959]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.53:766][959]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Open_01.fbx]
+[2024.12.06-23.51.53:772][959]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Open_01.fbx
+[2024.12.06-23.51.53:777][959]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.53:826][959]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.53:858][959]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Closed_01.fbx]
+[2024.12.06-23.51.53:864][959]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Closed_01.fbx
+[2024.12.06-23.51.53:869][959]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.53:912][959]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.53:947][959]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=1.210 Y=-1.782 Z=25.153, BoxExtent=(X=137.604 Y=21.745 Z=24.944), SphereRadius=(141.526700)) and MeshDescription Bounds (Origin=X=-0.285 Y=-2.045 Z=23.109, BoxExtent=(X=135.410 Y=20.542 Z=22.900), SphereRadius=(138.290667)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Bench_01.SM_Bench_01
+[2024.12.06-23.51.53:948][959]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.173 Y=0.680 Z=-0.000, BoxExtent=(X=45.449 Y=46.915 Z=62.904), SphereRadius=(90.683230)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.000 Z=-0.000, BoxExtent=(X=43.020 Y=43.020 Z=55.800), SphereRadius=(66.316034)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Barrell_Open_01.SM_Barrell_Open_01
+[2024.12.06-23.51.53:948][959]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.888 Y=0.227 Z=-0.000, BoxExtent=(X=46.164 Y=47.279 Z=62.904), SphereRadius=(91.231969)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.000 Z=-0.000, BoxExtent=(X=43.020 Y=43.020 Z=55.800), SphereRadius=(66.316034)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Barrell_Closed_01.SM_Barrell_Closed_01
+[2024.12.06-23.51.54:058][960]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Axe_01.fbx]
+[2024.12.06-23.51.54:065][960]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Axe_01.fbx
+[2024.12.06-23.51.54:069][960]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:090][960]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:095][960]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_02.fbx]
+[2024.12.06-23.51.54:102][960]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_02.fbx
+[2024.12.06-23.51.54:107][960]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:134][960]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:139][960]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_03.fbx]
+[2024.12.06-23.51.54:145][960]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_03.fbx
+[2024.12.06-23.51.54:149][960]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:190][960]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:195][960]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_04.fbx]
+[2024.12.06-23.51.54:200][960]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_04.fbx
+[2024.12.06-23.51.54:205][960]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:228][960]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:230][960]LogStaticMesh: Warning: SM_Book_04 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.12.06-23.51.54:230][960]LogStaticMesh: Warning: SM_Book_04 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.54:230][960]LogStaticMesh: Warning: SM_Book_04 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.54:231][960]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.036 Y=-0.000 Z=0.023, BoxExtent=(X=7.677 Y=11.458 Z=1.978), SphereRadius=(13.933263)) and MeshDescription Bounds (Origin=X=0.050 Y=0.000 Z=0.025, BoxExtent=(X=7.550 Y=11.351 Z=1.975), SphereRadius=(13.774873)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_02.SM_Book_02
+[2024.12.06-23.51.54:232][960]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.031 Y=-0.002 Z=0.024, BoxExtent=(X=7.759 Y=11.454 Z=2.082), SphereRadius=(13.990291)) and MeshDescription Bounds (Origin=X=-0.050 Y=0.000 Z=0.000, BoxExtent=(X=7.650 Y=11.351 Z=2.043), SphereRadius=(13.826390)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_03.SM_Book_03
+[2024.12.06-23.51.54:232][960]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.071 Y=-0.000 Z=0.000, BoxExtent=(X=7.571 Y=11.253 Z=1.854), SphereRadius=(13.689015)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=7.500 Y=11.250 Z=1.850), SphereRadius=(13.646795)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_04.SM_Book_04
+[2024.12.06-23.51.54:391][961]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_05.fbx]
+[2024.12.06-23.51.54:396][961]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_05.fbx
+[2024.12.06-23.51.54:402][961]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:427][961]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:431][961]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_06.fbx]
+[2024.12.06-23.51.54:436][961]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_06.fbx
+[2024.12.06-23.51.54:441][961]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:479][961]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:483][961]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_01.fbx]
+[2024.12.06-23.51.54:489][961]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_01.fbx
+[2024.12.06-23.51.54:494][961]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:516][961]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:520][961]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_02.fbx]
+[2024.12.06-23.51.54:526][961]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_02.fbx
+[2024.12.06-23.51.54:530][961]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:553][961]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:557][961]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_03.fbx]
+[2024.12.06-23.51.54:564][961]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_03.fbx
+[2024.12.06-23.51.54:568][961]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:593][961]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:597][961]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.036 Y=-0.000 Z=-0.000, BoxExtent=(X=7.677 Y=11.458 Z=1.956), SphereRadius=(13.930089)) and MeshDescription Bounds (Origin=X=0.050 Y=0.000 Z=0.000, BoxExtent=(X=7.550 Y=11.351 Z=1.950), SphereRadius=(13.771311)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_05.SM_Book_05
+[2024.12.06-23.51.54:598][961]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.033 Y=-0.009 Z=-0.004, BoxExtent=(X=7.761 Y=11.446 Z=2.054), SphereRadius=(13.981411)) and MeshDescription Bounds (Origin=X=-0.050 Y=0.000 Z=0.000, BoxExtent=(X=7.650 Y=11.351 Z=2.043), SphereRadius=(13.826390)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_06.SM_Book_06
+[2024.12.06-23.51.54:724][962]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Box_01.fbx]
+[2024.12.06-23.51.54:730][962]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Box_01.fbx
+[2024.12.06-23.51.54:735][962]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:768][962]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:772][962]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Cart_01.fbx]
+[2024.12.06-23.51.54:778][962]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Cart_01.fbx
+[2024.12.06-23.51.54:782][962]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:832][962]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:878][962]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chair_01.fbx]
+[2024.12.06-23.51.54:883][962]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chair_01.fbx
+[2024.12.06-23.51.54:888][962]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.54:912][962]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.54:914][962]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.005 Y=0.155 Z=11.894, BoxExtent=(X=38.925 Y=23.233 Z=12.342), SphereRadius=(46.981111)) and MeshDescription Bounds (Origin=X=0.000 Y=0.150 Z=11.051, BoxExtent=(X=37.664 Y=22.725 Z=11.046), SphereRadius=(44.547485)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Box_01.SM_Box_01
+[2024.12.06-23.51.54:914][962]LogStaticMesh: Warning: SM_Chair_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.12.06-23.51.54:914][962]LogStaticMesh: Warning: SM_Chair_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.55:057][963]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chalice_01.fbx]
+[2024.12.06-23.51.55:064][963]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chalice_01.fbx
+[2024.12.06-23.51.55:069][963]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:097][963]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:101][963]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Coin_01.fbx]
+[2024.12.06-23.51.55:107][963]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Coin_01.fbx
+[2024.12.06-23.51.55:112][963]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:133][963]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:137][963]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Crate_01.fbx]
+[2024.12.06-23.51.55:142][963]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Crate_01.fbx
+[2024.12.06-23.51.55:147][963]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:179][963]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:423][963]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_01.fbx]
+[2024.12.06-23.51.55:429][963]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_01.fbx
+[2024.12.06-23.51.55:434][963]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:494][963]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:497][963]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.107 Y=-0.240 Z=12.599, BoxExtent=(X=6.214 Y=6.134 Z=13.052), SphereRadius=(15.703372)) and MeshDescription Bounds (Origin=X=0.000 Y=-0.005 Z=12.317, BoxExtent=(X=5.825 Y=5.820 Z=12.317), SphereRadius=(13.663138)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Chalice_01.SM_Chalice_01
+[2024.12.06-23.51.55:497][963]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.033 Y=0.056 Z=0.046, BoxExtent=(X=4.985 Y=5.007 Z=0.626), SphereRadius=(7.093037)) and MeshDescription Bounds (Origin=X=0.033 Y=0.027 Z=0.000, BoxExtent=(X=4.985 Y=4.977 Z=0.500), SphereRadius=(5.089313)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Coin_01.SM_Coin_01
+[2024.12.06-23.51.55:498][963]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.099 Y=-0.142 Z=3.494, BoxExtent=(X=57.667 Y=50.142 Z=54.848), SphereRadius=(94.064424)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=50.000 Y=50.000 Z=50.000), SphereRadius=(86.602540)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Crate_01.SM_Crate_01
+[2024.12.06-23.51.55:498][963]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-10.558 Y=0.030 Z=22.648, BoxExtent=(X=112.157 Y=114.361 Z=28.383), SphereRadius=(162.675160)) and MeshDescription Bounds (Origin=X=-10.362 Y=0.283 Z=24.938, BoxExtent=(X=105.398 Y=107.863 Z=26.093), SphereRadius=(118.969680)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_FloorPlant_01.SM_FloorPlant_01
+[2024.12.06-23.51.55:509][964]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_02.fbx]
+[2024.12.06-23.51.55:514][964]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_02.fbx
+[2024.12.06-23.51.55:518][964]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:574][964]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:578][964]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_03.fbx]
+[2024.12.06-23.51.55:583][964]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_03.fbx
+[2024.12.06-23.51.55:589][964]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:648][964]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:657][964]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_01.fbx]
+[2024.12.06-23.51.55:662][964]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_01.fbx
+[2024.12.06-23.51.55:667][964]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:716][964]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:719][964]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=1.102 Y=-8.456 Z=24.911, BoxExtent=(X=97.353 Y=93.362 Z=27.209), SphereRadius=(137.602733)) and MeshDescription Bounds (Origin=X=1.102 Y=-8.456 Z=23.112, BoxExtent=(X=97.353 Y=93.362 Z=25.410), SphereRadius=(109.186381)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_FloorPlant_03.SM_FloorPlant_03
+[2024.12.06-23.51.55:842][965]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_02.fbx]
+[2024.12.06-23.51.55:847][965]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_02.fbx
+[2024.12.06-23.51.55:852][965]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:891][965]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:896][965]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_03.fbx]
+[2024.12.06-23.51.55:903][965]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_03.fbx
+[2024.12.06-23.51.55:907][965]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:940][965]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:946][965]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_04.fbx]
+[2024.12.06-23.51.55:951][965]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_04.fbx
+[2024.12.06-23.51.55:955][965]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.55:992][965]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.55:996][965]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_05.fbx]
+[2024.12.06-23.51.56:002][965]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_05.fbx
+[2024.12.06-23.51.56:006][965]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:025][965]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:176][966]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_06.fbx]
+[2024.12.06-23.51.56:180][966]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_06.fbx
+[2024.12.06-23.51.56:185][966]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:208][966]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:212][966]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Closed.fbx]
+[2024.12.06-23.51.56:219][966]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Closed.fbx
+[2024.12.06-23.51.56:224][966]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:247][966]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:251][966]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Open.fbx]
+[2024.12.06-23.51.56:256][966]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Open.fbx
+[2024.12.06-23.51.56:262][966]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:298][966]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:302][966]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Carrot.fbx]
+[2024.12.06-23.51.56:308][966]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Carrot.fbx
+[2024.12.06-23.51.56:313][966]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:337][966]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:340][966]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Cheese.fbx]
+[2024.12.06-23.51.56:346][966]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Cheese.fbx
+[2024.12.06-23.51.56:350][966]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:373][966]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:378][966]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-2.578 Y=0.091 Z=-1.047, BoxExtent=(X=5.353 Y=2.681 Z=11.809), SphereRadius=(13.239817)) and MeshDescription Bounds (Origin=X=-2.446 Y=0.019 Z=-1.039, BoxExtent=(X=4.933 Y=2.497 Z=11.446), SphereRadius=(12.403675)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Bananna_Closed.SM_Food_Bananna_Closed
+[2024.12.06-23.51.56:378][966]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.587 Y=-0.569 Z=-0.225, BoxExtent=(X=8.228 Y=7.324 Z=12.244), SphereRadius=(16.470219)) and MeshDescription Bounds (Origin=X=-0.701 Y=-0.651 Z=0.219, BoxExtent=(X=7.711 Y=7.243 Z=11.621), SphereRadius=(13.289618)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Bananna_Open.SM_Food_Bananna_Open
+[2024.12.06-23.51.56:378][966]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.480 Y=-0.022 Z=3.997, BoxExtent=(X=4.893 Y=4.279 Z=14.224), SphereRadius=(15.638402)) and MeshDescription Bounds (Origin=X=0.480 Y=-0.022 Z=4.340, BoxExtent=(X=4.893 Y=4.279 Z=13.880), SphereRadius=(14.446473)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Carrot.SM_Food_Carrot
+[2024.12.06-23.51.56:379][966]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.054 Y=1.701 Z=-0.020, BoxExtent=(X=9.968 Y=14.151 Z=7.431), SphereRadius=(18.836880)) and MeshDescription Bounds (Origin=X=0.014 Y=1.122 Z=0.007, BoxExtent=(X=9.818 Y=13.571 Z=7.366), SphereRadius=(16.531603)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Cheese.SM_Food_Cheese
+[2024.12.06-23.51.56:508][967]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Orange.fbx]
+[2024.12.06-23.51.56:513][967]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Orange.fbx
+[2024.12.06-23.51.56:518][967]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:539][967]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:544][967]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Green.fbx]
+[2024.12.06-23.51.56:550][967]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Green.fbx
+[2024.12.06-23.51.56:554][967]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:583][967]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:587][967]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Red.fbx]
+[2024.12.06-23.51.56:593][967]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Red.fbx
+[2024.12.06-23.51.56:598][967]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:624][967]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:628][967]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Yellow.fbx]
+[2024.12.06-23.51.56:634][967]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Yellow.fbx
+[2024.12.06-23.51.56:639][967]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:664][967]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:668][967]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pumpkin.fbx]
+[2024.12.06-23.51.56:675][967]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pumpkin.fbx
+[2024.12.06-23.51.56:680][967]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:704][967]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:708][967]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.101 Y=0.287 Z=0.211, BoxExtent=(X=8.835 Y=8.632 Z=7.908), SphereRadius=(14.666148)) and MeshDescription Bounds (Origin=X=0.008 Y=-0.082 Z=0.216, BoxExtent=(X=8.413 Y=8.263 Z=7.091), SphereRadius=(8.798230)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Orange.SM_Food_Orange
+[2024.12.06-23.51.56:708][967]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.011 Y=0.227 Z=3.118, BoxExtent=(X=7.028 Y=8.209 Z=10.910), SphereRadius=(15.355760)) and MeshDescription Bounds (Origin=X=-0.001 Y=-0.000 Z=3.010, BoxExtent=(X=7.016 Y=7.737 Z=10.378), SphereRadius=(10.829958)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Green.SM_Food_Pepper_Green
+[2024.12.06-23.51.56:709][967]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.001 Y=-0.000 Z=2.947, BoxExtent=(X=7.016 Y=7.719 Z=10.315), SphereRadius=(14.670301)) and MeshDescription Bounds (Origin=X=-0.001 Y=-0.000 Z=2.714, BoxExtent=(X=7.016 Y=7.719 Z=10.082), SphereRadius=(10.559667)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Red.SM_Food_Pepper_Red
+[2024.12.06-23.51.56:709][967]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-0.026 Y=-0.055 Z=1.598, BoxExtent=(X=7.039 Y=8.016 Z=9.400), SphereRadius=(14.218776)) and MeshDescription Bounds (Origin=X=-0.040 Y=-0.000 Z=1.815, BoxExtent=(X=6.979 Y=7.737 Z=9.183), SphereRadius=(9.759089)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Yellow.SM_Food_Pepper_Yellow
+[2024.12.06-23.51.56:710][967]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.251 Y=0.522 Z=4.569, BoxExtent=(X=26.848 Y=26.206 Z=22.971), SphereRadius=(43.991250)) and MeshDescription Bounds (Origin=X=0.010 Y=0.109 Z=5.002, BoxExtent=(X=25.789 Y=25.794 Z=22.537), SphereRadius=(29.182512)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pumpkin.SM_Food_Pumpkin
+[2024.12.06-23.51.56:841][968]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Tomato.fbx]
+[2024.12.06-23.51.56:846][968]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Tomato.fbx
+[2024.12.06-23.51.56:851][968]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:872][968]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:876][968]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Full.fbx]
+[2024.12.06-23.51.56:882][968]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Full.fbx
+[2024.12.06-23.51.56:886][968]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:937][968]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:942][968]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Half.fbx]
+[2024.12.06-23.51.56:947][968]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Half.fbx
+[2024.12.06-23.51.56:952][968]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.56:990][968]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.56:993][968]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Slice.fbx]
+[2024.12.06-23.51.56:999][968]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Slice.fbx
+[2024.12.06-23.51.57:003][968]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.57:034][968]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.57:037][968]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.167 Y=-0.547 Z=1.198, BoxExtent=(X=9.509 Y=9.737 Z=8.169), SphereRadius=(15.873416)) and MeshDescription Bounds (Origin=X=-0.009 Y=-0.028 Z=1.307, BoxExtent=(X=9.176 Y=9.022 Z=8.060), SphereRadius=(11.350322)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Tomato.SM_Food_Tomato
+[2024.12.06-23.51.57:038][968]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.042 Y=0.233 Z=0.006, BoxExtent=(X=14.421 Y=14.416 Z=15.373), SphereRadius=(25.536356)) and MeshDescription Bounds (Origin=X=-0.049 Y=-0.037 Z=0.000, BoxExtent=(X=14.121 Y=14.145 Z=14.930), SphereRadius=(14.929922)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Watermelon_Full.SM_Food_Watermelon_Full
+[2024.12.06-23.51.57:174][969]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_01.fbx]
+[2024.12.06-23.51.57:180][969]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_01.fbx
+[2024.12.06-23.51.57:184][969]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.57:229][969]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.57:232][969]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_02.fbx]
+[2024.12.06-23.51.57:237][969]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_02.fbx
+[2024.12.06-23.51.57:242][969]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.57:285][969]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.57:290][969]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_03.fbx]
+[2024.12.06-23.51.57:295][969]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_03.fbx
+[2024.12.06-23.51.57:299][969]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.57:329][969]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.57:332][969]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Mace_01.fbx]
+[2024.12.06-23.51.57:337][969]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Mace_01.fbx
+[2024.12.06-23.51.57:342][969]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.57:362][969]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.57:365][969]LogStaticMesh: Warning: SM_Mace_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.57:365][969]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=1.210 Y=0.090 Z=36.641, BoxExtent=(X=14.934 Y=17.228 Z=44.948), SphereRadius=(50.399777)) and MeshDescription Bounds (Origin=X=1.210 Y=0.090 Z=38.714, BoxExtent=(X=14.934 Y=17.228 Z=42.874), SphereRadius=(43.519467)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Mace_01.SM_Mace_01
+[2024.12.06-23.51.57:514][970]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_01.fbx]
+[2024.12.06-23.51.57:520][970]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_01.fbx
+[2024.12.06-23.51.57:526][970]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.57:579][970]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.57:580][970]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'T_PropColorMap' was renamed 'T_PropColorMap_ncl1_1' 
+[2024.12.06-23.51.57:771][970]LogStaticMesh: Warning: SM_MarketStall_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.12.06-23.51.57:771][970]LogStaticMesh: Warning: SM_MarketStall_01 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.57:771][970]LogStaticMesh: Warning: SM_MarketStall_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.57:841][971]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_02.fbx]
+[2024.12.06-23.51.57:846][971]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_02.fbx
+[2024.12.06-23.51.57:852][971]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.57:898][971]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.57:899][971]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'T_PropColorMap' was renamed 'T_PropColorMap_ncl1_1' 
+[2024.12.06-23.51.58:108][971]LogStaticMesh: Warning: SM_MarketStall_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.12.06-23.51.58:109][971]LogStaticMesh: Warning: SM_MarketStall_02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.58:109][971]LogStaticMesh: Warning: SM_MarketStall_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.58:174][972]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_03.fbx]
+[2024.12.06-23.51.58:180][972]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_03.fbx
+[2024.12.06-23.51.58:185][972]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.58:237][972]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.58:239][972]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'T_PropColorMap' was renamed 'T_PropColorMap_ncl1_1' 
+[2024.12.06-23.51.58:490][972]LogStaticMesh: Warning: SM_MarketStall_03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.12.06-23.51.58:490][972]LogStaticMesh: Warning: SM_MarketStall_03 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.58:490][972]LogStaticMesh: Warning: SM_MarketStall_03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.51.58:513][973]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_01.fbx]
+[2024.12.06-23.51.58:519][973]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_01.fbx
+[2024.12.06-23.51.58:522][973]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.58:548][973]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.58:840][974]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_02.fbx]
+[2024.12.06-23.51.58:847][974]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_02.fbx
+[2024.12.06-23.51.58:851][974]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.58:874][974]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:074][974]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=16.448 Y=-6.136 Z=12.894, BoxExtent=(X=162.887 Y=155.485 Z=97.359), SphereRadius=(245.329544)) and MeshDescription Bounds (Origin=X=17.130 Y=2.185 Z=8.257, BoxExtent=(X=160.108 Y=146.698 Z=92.722), SphereRadius=(180.850744)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_01.SM_Rock_01
+[2024.12.06-23.51.59:075][974]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.007 Y=10.622 Z=12.339, BoxExtent=(X=132.269 Y=141.180 Z=116.654), SphereRadius=(225.909254)) and MeshDescription Bounds (Origin=X=7.104 Y=3.595 Z=6.320, BoxExtent=(X=125.173 Y=125.970 Z=103.020), SphereRadius=(143.958074)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_02.SM_Rock_02
+[2024.12.06-23.51.59:174][975]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_03.fbx]
+[2024.12.06-23.51.59:179][975]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_03.fbx
+[2024.12.06-23.51.59:184][975]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:210][975]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:508][976]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_01.fbx]
+[2024.12.06-23.51.59:513][976]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_01.fbx
+[2024.12.06-23.51.59:517][976]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:535][976]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:540][976]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_02.fbx]
+[2024.12.06-23.51.59:546][976]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_02.fbx
+[2024.12.06-23.51.59:550][976]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:567][976]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:572][976]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_03.fbx]
+[2024.12.06-23.51.59:577][976]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_03.fbx
+[2024.12.06-23.51.59:581][976]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:598][976]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:603][976]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_01.fbx]
+[2024.12.06-23.51.59:608][976]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_01.fbx
+[2024.12.06-23.51.59:612][976]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:640][976]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:646][976]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_02.fbx]
+[2024.12.06-23.51.59:652][976]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_02.fbx
+[2024.12.06-23.51.59:656][976]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:684][976]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:689][976]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-4.644 Y=9.780 Z=13.410, BoxExtent=(X=123.500 Y=125.760 Z=160.246), SphereRadius=(238.215242)) and MeshDescription Bounds (Origin=X=-0.863 Y=7.835 Z=7.351, BoxExtent=(X=118.088 Y=119.726 Z=151.772), SphereRadius=(166.545810)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_03.SM_Rock_03
+[2024.12.06-23.51.59:689][976]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-3.153 Y=2.524 Z=0.725, BoxExtent=(X=15.444 Y=13.078 Z=12.959), SphereRadius=(24.031377)) and MeshDescription Bounds (Origin=X=-0.976 Y=1.786 Z=1.883, BoxExtent=(X=11.862 Y=12.340 Z=11.568), SphereRadius=(15.938829)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_01.SM_Rock_Scatter_01
+[2024.12.06-23.51.59:690][976]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-2.249 Y=0.129 Z=3.103, BoxExtent=(X=12.647 Y=19.229 Z=16.846), SphereRadius=(28.521593)) and MeshDescription Bounds (Origin=X=-1.232 Y=1.775 Z=1.438, BoxExtent=(X=11.630 Y=15.863 Z=14.857), SphereRadius=(17.712247)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_02.SM_Rock_Scatter_02
+[2024.12.06-23.51.59:690][976]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-2.900 Y=0.154 Z=4.196, BoxExtent=(X=20.647 Y=30.028 Z=22.705), SphereRadius=(42.936251)) and MeshDescription Bounds (Origin=X=-4.073 Y=-1.009 Z=2.307, BoxExtent=(X=18.786 Y=20.325 Z=18.469), SphereRadius=(27.334351)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_03.SM_Rock_Scatter_03
+[2024.12.06-23.51.59:691][976]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=1.264 Y=1.208 Z=38.037, BoxExtent=(X=30.787 Y=30.101 Z=39.759), SphereRadius=(58.606512)) and MeshDescription Bounds (Origin=X=-0.443 Y=1.638 Z=38.908, BoxExtent=(X=29.080 Y=28.576 Z=38.888), SphereRadius=(44.329964)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Sack_01.SM_Sack_01
+[2024.12.06-23.51.59:691][976]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-1.207 Y=2.230 Z=35.686, BoxExtent=(X=29.105 Y=31.620 Z=35.965), SphereRadius=(56.039067)) and MeshDescription Bounds (Origin=X=-1.621 Y=-0.157 Z=35.982, BoxExtent=(X=28.691 Y=29.233 Z=35.669), SphereRadius=(41.962633)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Sack_02.SM_Sack_02
+[2024.12.06-23.51.59:841][977]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sword_01.fbx]
+[2024.12.06-23.51.59:846][977]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sword_01.fbx
+[2024.12.06-23.51.59:850][977]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:875][977]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:879][977]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_01.fbx]
+[2024.12.06-23.51.59:884][977]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_01.fbx
+[2024.12.06-23.51.59:889][977]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.51.59:920][977]LogEditorFactories: -- imported successfully
+[2024.12.06-23.51.59:960][977]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_02.fbx]
+[2024.12.06-23.51.59:966][977]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_02.fbx
+[2024.12.06-23.51.59:971][977]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.00:010][977]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.00:057][977]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.317 Y=3.432 Z=38.423, BoxExtent=(X=164.871 Y=66.521 Z=46.243), SphereRadius=(183.700265)) and MeshDescription Bounds (Origin=X=-0.173 Y=-0.258 Z=40.093, BoxExtent=(X=155.561 Y=60.461 Z=40.093), SphereRadius=(168.620051)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Table_01.SM_Table_01
+[2024.12.06-23.52.00:058][977]LogStaticMesh: Warning: SM_Table_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.12.06-23.52.00:058][977]LogStaticMesh: Warning: SM_Table_02 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.52.00:058][977]LogStaticMesh: Warning: SM_Table_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.12.06-23.52.00:174][978]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tankard_01.fbx]
+[2024.12.06-23.52.00:180][978]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tankard_01.fbx
+[2024.12.06-23.52.00:185][978]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.00:219][978]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.00:269][978]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_01.fbx]
+[2024.12.06-23.52.00:275][978]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_01.fbx
+[2024.12.06-23.52.00:279][978]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.00:303][978]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.00:308][978]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_02.fbx]
+[2024.12.06-23.52.00:313][978]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_02.fbx
+[2024.12.06-23.52.00:317][978]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.00:342][978]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.00:353][978]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=-3.457 Y=0.153 Z=42.112, BoxExtent=(X=168.052 Y=100.690 Z=42.184), SphereRadius=(200.398430)) and MeshDescription Bounds (Origin=X=-0.135 Y=0.210 Z=38.727, BoxExtent=(X=160.810 Y=97.316 Z=38.799), SphereRadius=(183.978663)) is significative for StaticMesh /Game/LowPolyMarket/Meshes/SM_Table_02.SM_Table_02
+[2024.12.06-23.52.00:508][979]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_03.fbx]
+[2024.12.06-23.52.00:513][979]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_03.fbx
+[2024.12.06-23.52.00:517][979]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.00:543][979]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.00:647][979]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_02.fbx]
+[2024.12.06-23.52.00:652][979]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_02.fbx
+[2024.12.06-23.52.00:659][979]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.00:798][979]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.01:562][980]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_06.fbx]
+[2024.12.06-23.52.01:567][980]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_06.fbx
+[2024.12.06-23.52.01:574][980]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.01:639][980]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.02:397][981]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Small_01.fbx]
+[2024.12.06-23.52.02:403][981]LogFbx: Loading FBX Scene from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Small_01.fbx
+[2024.12.06-23.52.02:410][981]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.52.02:466][981]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.03:134][982]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_Gradient.psd]
+[2024.12.06-23.52.03:135][982]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_Gradient.psd)
+[2024.12.06-23.52.03:202][982]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.03:217][982]LogEditorFactories: Performing atomic reimport of [C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_PropColorMap.psd]
+[2024.12.06-23.52.03:217][982]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_PropColorMap.psd)
+[2024.12.06-23.52.03:220][982]LogEditorFactories: -- imported successfully
+[2024.12.06-23.52.03:229][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-23.52.03:420][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Book_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_01.uasset" SILENT=true
+[2024.12.06-23.52.03:498][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Book_01
+[2024.12.06-23.52.03:499][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Book_01A9845F5441487821FAB313BDE9869E2A.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_01.uasset'
+[2024.12.06-23.52.03:515][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Bench_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bench_01.uasset" SILENT=true
+[2024.12.06-23.52.03:519][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Bench_01
+[2024.12.06-23.52.03:520][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Bench_01EFB630984F71E2082E2EF2AC411B56EA.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bench_01.uasset'
+[2024.12.06-23.52.03:539][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Barrell_Open_01
+[2024.12.06-23.52.03:540][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Barrell_Open_018E4B647042495CB9FBBD1DBA2368EE08.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Open_01.uasset'
+[2024.12.06-23.52.03:559][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Barrell_Closed_01
+[2024.12.06-23.52.03:560][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Barrell_Closed_01FD7277AD42676FB81CE3528E333D7AA5.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Closed_01.uasset'
+[2024.12.06-23.52.03:574][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Axe_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Axe_01.uasset" SILENT=true
+[2024.12.06-23.52.03:578][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Axe_01
+[2024.12.06-23.52.03:579][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Axe_015DD91BD0433D05304FC5479BB26448D2.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Axe_01.uasset'
+[2024.12.06-23.52.03:594][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Book_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_02.uasset" SILENT=true
+[2024.12.06-23.52.03:598][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Book_02
+[2024.12.06-23.52.03:599][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Book_024D945FDB4808969B345B00885EF2627C.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_02.uasset'
+[2024.12.06-23.52.03:613][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Book_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_03.uasset" SILENT=true
+[2024.12.06-23.52.03:618][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Book_03
+[2024.12.06-23.52.03:619][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Book_034E397C6B4C3E3E31850E4FB6B2EE072E.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_03.uasset'
+[2024.12.06-23.52.03:632][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Book_04" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_04.uasset" SILENT=true
+[2024.12.06-23.52.03:637][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Book_04
+[2024.12.06-23.52.03:637][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Book_04E45E27B04EF64826779EB6AF73DE11D4.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_04.uasset'
+[2024.12.06-23.52.03:657][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Book_05" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_05.uasset" SILENT=true
+[2024.12.06-23.52.03:661][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Book_05
+[2024.12.06-23.52.03:662][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Book_053A4D374046001527A073048FCCE6BFBF.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_05.uasset'
+[2024.12.06-23.52.03:676][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Book_06" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_06.uasset" SILENT=true
+[2024.12.06-23.52.03:681][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Book_06
+[2024.12.06-23.52.03:681][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Book_06790401F542F248534501F5B603AF7488.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_06.uasset'
+[2024.12.06-23.52.03:695][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Bottle_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_01.uasset" SILENT=true
+[2024.12.06-23.52.03:702][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Bottle_01
+[2024.12.06-23.52.03:703][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Bottle_0154C357DF453BE17D6D66428E24D922AE.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_01.uasset'
+[2024.12.06-23.52.03:716][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Bottle_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_02.uasset" SILENT=true
+[2024.12.06-23.52.03:720][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Bottle_02
+[2024.12.06-23.52.03:721][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Bottle_02044C23444C2D71212F98D7A394FA2EB6.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_02.uasset'
+[2024.12.06-23.52.03:734][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Bottle_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_03.uasset" SILENT=true
+[2024.12.06-23.52.03:739][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Bottle_03
+[2024.12.06-23.52.03:740][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Bottle_0330B8B2DD4D2DDC7F59441B81035067C7.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_03.uasset'
+[2024.12.06-23.52.03:753][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Box_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Box_01.uasset" SILENT=true
+[2024.12.06-23.52.03:758][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Box_01
+[2024.12.06-23.52.03:759][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Box_01A3FEC1074ADF4C4804F4E5AAFBCC1FD2.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Box_01.uasset'
+[2024.12.06-23.52.03:773][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Cart_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Cart_01.uasset" SILENT=true
+[2024.12.06-23.52.03:779][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Cart_01
+[2024.12.06-23.52.03:779][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Cart_01579E6B094F5053F90727DC82B585D073.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Cart_01.uasset'
+[2024.12.06-23.52.03:793][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Chair_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chair_01.uasset" SILENT=true
+[2024.12.06-23.52.03:797][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Chair_01
+[2024.12.06-23.52.03:798][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Chair_0116180236410387CB1DFDAA9CC20E7275.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chair_01.uasset'
+[2024.12.06-23.52.03:814][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Chalice_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chalice_01.uasset" SILENT=true
+[2024.12.06-23.52.03:819][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Chalice_01
+[2024.12.06-23.52.03:819][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Chalice_0153BF60364E120E2F0EE295B032A1CF79.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chalice_01.uasset'
+[2024.12.06-23.52.03:834][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Coin_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Coin_01.uasset" SILENT=true
+[2024.12.06-23.52.03:838][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Coin_01
+[2024.12.06-23.52.03:838][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Coin_01AF80BE89458ACE04C79B7F899844E100.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Coin_01.uasset'
+[2024.12.06-23.52.03:852][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Crate_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Crate_01.uasset" SILENT=true
+[2024.12.06-23.52.03:857][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Crate_01
+[2024.12.06-23.52.03:857][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Crate_016DF215EA4268CC543AE993AFAD7E54E1.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Crate_01.uasset'
+[2024.12.06-23.52.03:973][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_FloorPlant_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_01.uasset" SILENT=true
+[2024.12.06-23.52.03:980][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_FloorPlant_01
+[2024.12.06-23.52.03:981][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_FloorPlant_0141C8CB3D4EE5B436F9F49EBB59E8E5B4.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_01.uasset'
+[2024.12.06-23.52.03:997][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_FloorPlant_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_02.uasset" SILENT=true
+[2024.12.06-23.52.04:001][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_FloorPlant_02
+[2024.12.06-23.52.04:002][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_FloorPlant_023AA1D89A42A011737F4EA39E80C5E790.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_02.uasset'
+[2024.12.06-23.52.04:017][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_FloorPlant_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_03.uasset" SILENT=true
+[2024.12.06-23.52.04:022][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_FloorPlant_03
+[2024.12.06-23.52.04:023][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_FloorPlant_033B7E3B00497C4FD6C9C9B085AAD0EA99.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_03.uasset'
+[2024.12.06-23.52.04:100][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Flower_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_01.uasset" SILENT=true
+[2024.12.06-23.52.04:105][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Flower_01
+[2024.12.06-23.52.04:106][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Flower_01DD6DB71B44E359A015F83DA875421DEB.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_01.uasset'
+[2024.12.06-23.52.04:124][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Flower_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_02.uasset" SILENT=true
+[2024.12.06-23.52.04:130][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Flower_02
+[2024.12.06-23.52.04:130][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Flower_0234DBF49A48DC53474E3B6CBC4A148BFA.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_02.uasset'
+[2024.12.06-23.52.04:149][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Flower_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_03.uasset" SILENT=true
+[2024.12.06-23.52.04:154][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Flower_03
+[2024.12.06-23.52.04:154][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Flower_0310FE50C44BD2CEB1116A72A57F4D7679.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_03.uasset'
+[2024.12.06-23.52.04:172][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Flower_04" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_04.uasset" SILENT=true
+[2024.12.06-23.52.04:179][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Flower_04
+[2024.12.06-23.52.04:180][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Flower_04E30932A14F8DA0D420A92FA5ADEF720C.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_04.uasset'
+[2024.12.06-23.52.04:198][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Flower_05" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_05.uasset" SILENT=true
+[2024.12.06-23.52.04:203][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Flower_05
+[2024.12.06-23.52.04:203][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Flower_054DFD9BF34E06E11958599BB39BFAE1D4.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_05.uasset'
+[2024.12.06-23.52.04:222][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Flower_06" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_06.uasset" SILENT=true
+[2024.12.06-23.52.04:226][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Flower_06
+[2024.12.06-23.52.04:227][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Flower_06847ECAE84345870E27CF268DB49F6FA4.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_06.uasset'
+[2024.12.06-23.52.04:244][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Bananna_Closed
+[2024.12.06-23.52.04:245][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Bananna_Closed3D222C4143BBADB090B40A806819BB83.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Closed.uasset'
+[2024.12.06-23.52.04:265][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Bananna_Open
+[2024.12.06-23.52.04:265][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Bananna_Open771CDE164FCA2E01236826AE0DDFA7E5.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Open.uasset'
+[2024.12.06-23.52.04:279][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Food_Carrot" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Carrot.uasset" SILENT=true
+[2024.12.06-23.52.04:283][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Carrot
+[2024.12.06-23.52.04:284][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Carrot22417E31424C05B357CCC6826882A469.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Carrot.uasset'
+[2024.12.06-23.52.04:299][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Food_Cheese" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Cheese.uasset" SILENT=true
+[2024.12.06-23.52.04:304][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Cheese
+[2024.12.06-23.52.04:304][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_CheeseC38DE86348D8B0688164EEBB8676EA80.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Cheese.uasset'
+[2024.12.06-23.52.04:319][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Food_Orange" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Orange.uasset" SILENT=true
+[2024.12.06-23.52.04:323][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Orange
+[2024.12.06-23.52.04:324][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Orange11DF406F439BD47D154C4B88E85E6E0F.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Orange.uasset'
+[2024.12.06-23.52.04:342][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Green
+[2024.12.06-23.52.04:343][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Pepper_Green8F8BE5DD4C431F3553C55694679F03A8.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Green.uasset'
+[2024.12.06-23.52.04:361][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Red
+[2024.12.06-23.52.04:362][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Pepper_RedB88010E840FB60405B14E196D6ABC147.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Red.uasset'
+[2024.12.06-23.52.04:382][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Yellow
+[2024.12.06-23.52.04:383][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Pepper_Yellow450F1CC94797A989C072B3A28131535D.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Yellow.uasset'
+[2024.12.06-23.52.04:396][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Food_Pumpkin" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pumpkin.uasset" SILENT=true
+[2024.12.06-23.52.04:401][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Pumpkin
+[2024.12.06-23.52.04:402][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Pumpkin11E5DE5843845E304D9A099C2805B52F.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pumpkin.uasset'
+[2024.12.06-23.52.04:416][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Food_Tomato" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Tomato.uasset" SILENT=true
+[2024.12.06-23.52.04:420][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Tomato
+[2024.12.06-23.52.04:420][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Tomato2E1B83FC4792DCD506F9898BCAB54B9F.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Tomato.uasset'
+[2024.12.06-23.52.04:441][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Watermelon_Full
+[2024.12.06-23.52.04:442][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Watermelon_Full600997AD4BB458ACF6E6C282C96C0E40.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Full.uasset'
+[2024.12.06-23.52.04:461][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Watermelon_Half
+[2024.12.06-23.52.04:461][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Watermelon_Half3B4D87D04552C6CF4D7A6696A614AC10.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Half.uasset'
+[2024.12.06-23.52.04:479][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Food_Watermelon_Slice
+[2024.12.06-23.52.04:480][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Food_Watermelon_Slice1A8E3FF14C6C0CD0A4655293D1B83214.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Slice.uasset'
+[2024.12.06-23.52.04:496][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Grass_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_01.uasset" SILENT=true
+[2024.12.06-23.52.04:500][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Grass_01
+[2024.12.06-23.52.04:501][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Grass_01B0142B8D45982511222832BCA99BF7D3.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_01.uasset'
+[2024.12.06-23.52.04:517][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Grass_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_02.uasset" SILENT=true
+[2024.12.06-23.52.04:521][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Grass_02
+[2024.12.06-23.52.04:522][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Grass_0209861B534F61140747A25EB4AD3D9D18.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_02.uasset'
+[2024.12.06-23.52.04:540][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Grass_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_03.uasset" SILENT=true
+[2024.12.06-23.52.04:544][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Grass_03
+[2024.12.06-23.52.04:545][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Grass_035A2673204744C03F6D95409DB929FF98.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_03.uasset'
+[2024.12.06-23.52.04:559][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Mace_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Mace_01.uasset" SILENT=true
+[2024.12.06-23.52.04:563][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Mace_01
+[2024.12.06-23.52.04:564][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Mace_01554EFD7E4488588ACD75ADAEBB70E0E4.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Mace_01.uasset'
+[2024.12.06-23.52.04:631][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_MarketStall_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_01.uasset" SILENT=true
+[2024.12.06-23.52.04:639][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_MarketStall_01
+[2024.12.06-23.52.04:640][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_MarketStall_012DEAF6FC4D8D1EDE860F6EBE8F4BB818.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_01.uasset'
+[2024.12.06-23.52.04:656][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_MarketStall_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_02.uasset" SILENT=true
+[2024.12.06-23.52.04:662][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_MarketStall_02
+[2024.12.06-23.52.04:663][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_MarketStall_0294E07B3B4DDBE24F74029E96B2CDA966.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_02.uasset'
+[2024.12.06-23.52.04:680][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_MarketStall_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_03.uasset" SILENT=true
+[2024.12.06-23.52.04:685][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_MarketStall_03
+[2024.12.06-23.52.04:686][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_MarketStall_03CB328B1F45D1EBDF6E1F7295F4A09470.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_03.uasset'
+[2024.12.06-23.52.04:719][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Rock_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_01.uasset" SILENT=true
+[2024.12.06-23.52.04:724][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Rock_01
+[2024.12.06-23.52.04:724][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Rock_0112C3E0064A007F197C4754B0D7C17DFD.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_01.uasset'
+[2024.12.06-23.52.04:738][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Rock_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_02.uasset" SILENT=true
+[2024.12.06-23.52.04:742][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Rock_02
+[2024.12.06-23.52.04:743][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Rock_020E3699DD4AF0D104A0FB82A24D153324.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_02.uasset'
+[2024.12.06-23.52.04:757][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Rock_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_03.uasset" SILENT=true
+[2024.12.06-23.52.04:761][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Rock_03
+[2024.12.06-23.52.04:762][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Rock_03898C31C14E41F78F453406A91F993CD0.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_03.uasset'
+[2024.12.06-23.52.04:780][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_01
+[2024.12.06-23.52.04:780][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Rock_Scatter_0188D4C00748B5DFA2BF2D29A9772D9BC9.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_01.uasset'
+[2024.12.06-23.52.04:799][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_02
+[2024.12.06-23.52.04:800][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Rock_Scatter_0248BF6A324432A101E142758A508C3CAA.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_02.uasset'
+[2024.12.06-23.52.04:818][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_03
+[2024.12.06-23.52.04:819][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Rock_Scatter_03E9E720C74875E773BF608695F4866A23.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_03.uasset'
+[2024.12.06-23.52.04:833][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Sack_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_01.uasset" SILENT=true
+[2024.12.06-23.52.04:839][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Sack_01
+[2024.12.06-23.52.04:840][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Sack_01B79C2C474774661C0250FF8B7D28225F.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_01.uasset'
+[2024.12.06-23.52.04:854][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Sack_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_02.uasset" SILENT=true
+[2024.12.06-23.52.04:859][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Sack_02
+[2024.12.06-23.52.04:860][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Sack_026ED076D94B3915A86B29B58ACAE45256.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_02.uasset'
+[2024.12.06-23.52.04:874][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Sword_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sword_01.uasset" SILENT=true
+[2024.12.06-23.52.04:878][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Sword_01
+[2024.12.06-23.52.04:879][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Sword_017A37089541515BFF6527BE8EE86C512E.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sword_01.uasset'
+[2024.12.06-23.52.04:893][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Table_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_01.uasset" SILENT=true
+[2024.12.06-23.52.04:897][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Table_01
+[2024.12.06-23.52.04:898][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Table_016E5B943647594B1CF3132AA65FA66325.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_01.uasset'
+[2024.12.06-23.52.04:912][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Table_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_02.uasset" SILENT=true
+[2024.12.06-23.52.04:917][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Table_02
+[2024.12.06-23.52.04:917][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Table_02F1E29278486CE5CBCEC50ABB009DED9C.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_02.uasset'
+[2024.12.06-23.52.04:934][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Tankard_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tankard_01.uasset" SILENT=true
+[2024.12.06-23.52.04:939][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Tankard_01
+[2024.12.06-23.52.04:940][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Tankard_015282BA1D42242F8F6D71E8861686810E.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tankard_01.uasset'
+[2024.12.06-23.52.05:010][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_TreeBranch_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_01.uasset" SILENT=true
+[2024.12.06-23.52.05:013][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_TreeBranch_01
+[2024.12.06-23.52.05:014][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_TreeBranch_016C5B49E547F3092612A78E9AA5AEDF67.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_01.uasset'
+[2024.12.06-23.52.05:030][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_TreeBranch_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_02.uasset" SILENT=true
+[2024.12.06-23.52.05:037][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_TreeBranch_02
+[2024.12.06-23.52.05:038][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_TreeBranch_02483A6A634D35ECBC9C5FCF92EDB2237A.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_02.uasset'
+[2024.12.06-23.52.05:053][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_TreeBranch_03" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_03.uasset" SILENT=true
+[2024.12.06-23.52.05:058][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_TreeBranch_03
+[2024.12.06-23.52.05:058][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_TreeBranch_03A033FFE740675B53AFB0FDA52FBE6C6F.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_03.uasset'
+[2024.12.06-23.52.05:130][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Tree_Pine_02" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_02.uasset" SILENT=true
+[2024.12.06-23.52.05:139][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02
+[2024.12.06-23.52.05:140][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Tree_Pine_0234DA7C014E2006063C28B2BF4ABA55EC.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_02.uasset'
+[2024.12.06-23.52.05:158][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Tree_Pine_06" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_06.uasset" SILENT=true
+[2024.12.06-23.52.05:165][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06
+[2024.12.06-23.52.05:166][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Tree_Pine_06432613C1436C8B1413FDA38B7E705966.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_06.uasset'
+[2024.12.06-23.52.05:179][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Meshes/SM_Tree_Small_01" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Small_01.uasset" SILENT=true
+[2024.12.06-23.52.05:187][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Meshes/SM_Tree_Small_01
+[2024.12.06-23.52.05:188][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/SM_Tree_Small_0187C81EA44FDD9E4BF8B15FBADCDA6ECC.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Small_01.uasset'
+[2024.12.06-23.52.05:191][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Textures/T_Gradient" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_Gradient.uasset" SILENT=true
+[2024.12.06-23.52.05:260][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Textures/T_Gradient
+[2024.12.06-23.52.05:261][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/T_Gradient2D8D58BE4E1D2857DCF0A789C321FEBF.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_Gradient.uasset'
+[2024.12.06-23.52.05:264][982]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LowPolyMarket/Textures/T_PropColorMap" FILE="C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_PropColorMap.uasset" SILENT=true
+[2024.12.06-23.52.05:267][982]LogSavePackage: Moving output files for package: /Game/LowPolyMarket/Textures/T_PropColorMap
+[2024.12.06-23.52.05:267][982]LogSavePackage: Moving 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Saved/T_PropColorMap1C776B0D49BB2C9E373F71A656ED18AA.tmp' to 'C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_PropColorMap.uasset'
+[2024.12.06-23.52.05:277][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.04 sec (total: 9.07 sec)
+[2024.12.06-23.52.05:373][982]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.52.05:373][982]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-23.52.05:373][982]LogShaderCompilers: Display: Total job queries 66, among them cache hits 4 (6.06%)
+[2024.12.06-23.52.05:374][982]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 52 distinct outputs (83.87%)
+[2024.12.06-23.52.05:374][982]LogShaderCompilers: Display: RAM used: 1,37 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.12.06-23.52.05:374][982]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-23.52.05:374][982]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.12.06-23.52.05:374][982]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.12.06-23.52.05:374][982]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.12.06-23.52.05:374][982]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.52.05:462][983]LogAutomationController: Ignoring very large delta of 2.33 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.12.06-23.52.05:466][983]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_01.SM_Book_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Bench_01.SM_Bench_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Barrell_Open_01.SM_Barrell_Open_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Barrell_Closed_01.SM_Barrell_Closed_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Axe_01.SM_Axe_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_02.SM_Book_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_03.SM_Book_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_04.SM_Book_04
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_05.SM_Book_05
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Book_06.SM_Book_06
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Bottle_01.SM_Bottle_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Bottle_02.SM_Bottle_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Bottle_03.SM_Bottle_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Box_01.SM_Box_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Cart_01.SM_Cart_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Chair_01.SM_Chair_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Chalice_01.SM_Chalice_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Coin_01.SM_Coin_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Crate_01.SM_Crate_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_FloorPlant_01.SM_FloorPlant_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_FloorPlant_02.SM_FloorPlant_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_FloorPlant_03.SM_FloorPlant_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Flower_01.SM_Flower_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Flower_02.SM_Flower_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Flower_03.SM_Flower_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Flower_04.SM_Flower_04
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Flower_05.SM_Flower_05
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Flower_06.SM_Flower_06
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Bananna_Closed.SM_Food_Bananna_Closed
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Bananna_Open.SM_Food_Bananna_Open
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Carrot.SM_Food_Carrot
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Cheese.SM_Food_Cheese
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Orange.SM_Food_Orange
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Green.SM_Food_Pepper_Green
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Red.SM_Food_Pepper_Red
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pepper_Yellow.SM_Food_Pepper_Yellow
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Pumpkin.SM_Food_Pumpkin
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Tomato.SM_Food_Tomato
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Watermelon_Full.SM_Food_Watermelon_Full
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Watermelon_Half.SM_Food_Watermelon_Half
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Food_Watermelon_Slice.SM_Food_Watermelon_Slice
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Grass_01.SM_Grass_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Grass_02.SM_Grass_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Grass_03.SM_Grass_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Mace_01.SM_Mace_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_MarketStall_01.SM_MarketStall_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_MarketStall_02.SM_MarketStall_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_MarketStall_03.SM_MarketStall_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_01.SM_Rock_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_02.SM_Rock_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_03.SM_Rock_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_01.SM_Rock_Scatter_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_02.SM_Rock_Scatter_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Rock_Scatter_03.SM_Rock_Scatter_03
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Sack_01.SM_Sack_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Sack_02.SM_Sack_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Sword_01.SM_Sword_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Table_01.SM_Table_01
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Table_02.SM_Table_02
+[2024.12.06-23.52.05:466][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Tankard_01.SM_Tankard_01
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_TreeBranch_01.SM_TreeBranch_01
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_TreeBranch_02.SM_TreeBranch_02
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_TreeBranch_03.SM_TreeBranch_03
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Small_01.SM_Tree_Small_01
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/LowPolyMarket/Textures/T_Gradient.T_Gradient
+[2024.12.06-23.52.05:467][983]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/LowPolyMarket/Textures/T_PropColorMap.T_PropColorMap
+[2024.12.06-23.52.08:541][993]AssetReimport: Reimported asset SM_Book_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_01.fbx.
+[2024.12.06-23.52.08:541][993]AssetReimport: Reimported asset SM_Bench_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bench_01.fbx.
+[2024.12.06-23.52.08:541][993]AssetReimport: Reimported asset SM_Barrell_Open_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Open_01.fbx.
+[2024.12.06-23.52.08:541][993]AssetReimport: Reimported asset SM_Barrell_Closed_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Barrell_Closed_01.fbx.
+[2024.12.06-23.52.08:541][993]AssetReimport: Reimported asset SM_Axe_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Axe_01.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Book_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_02.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Book_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_03.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Book_04 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_04.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Book_05 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_05.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Book_06 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Book_06.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Bottle_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_01.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Bottle_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_02.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Bottle_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Bottle_03.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Box_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Box_01.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Cart_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Cart_01.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Chair_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chair_01.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Chalice_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Chalice_01.fbx.
+[2024.12.06-23.52.08:542][993]AssetReimport: Reimported asset SM_Coin_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Coin_01.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Crate_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Crate_01.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_FloorPlant_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_01.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_FloorPlant_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_02.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_FloorPlant_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_FloorPlant_03.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Flower_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_01.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Flower_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_02.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Flower_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_03.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Flower_04 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_04.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Flower_05 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_05.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Flower_06 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Flower_06.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Food_Bananna_Closed from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Closed.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Food_Bananna_Open from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Bananna_Open.fbx.
+[2024.12.06-23.52.08:542][994]AssetReimport: Reimported asset SM_Food_Carrot from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Carrot.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Cheese from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Cheese.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Orange from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Orange.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Pepper_Green from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Green.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Pepper_Red from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Red.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Pepper_Yellow from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pepper_Yellow.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Pumpkin from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Pumpkin.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Tomato from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Tomato.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Watermelon_Full from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Full.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Watermelon_Half from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Half.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Food_Watermelon_Slice from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Food_Watermelon_Slice.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Grass_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Grass_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Grass_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Grass_03.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Mace_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Mace_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_MarketStall_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_MarketStall_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_MarketStall_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_MarketStall_03.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Rock_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Rock_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Rock_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_03.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Rock_Scatter_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Rock_Scatter_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Rock_Scatter_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Rock_Scatter_03.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Sack_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Sack_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sack_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Sword_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Sword_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Table_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Table_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Table_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Tankard_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tankard_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_TreeBranch_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_TreeBranch_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_TreeBranch_03 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_TreeBranch_03.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Tree_Pine_02 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_02.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Tree_Pine_06 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Pine_06.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset SM_Tree_Small_01 from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Meshes/SM_Tree_Small_01.fbx.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset T_Gradient from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_Gradient.psd.
+[2024.12.06-23.52.08:543][994]AssetReimport: Reimported asset T_PropColorMap from C:/Users/Rama/Documents/Unreal Projects/Curso4/Curso42/Content/LowPolyMarket/Textures/T_PropColorMap.psd.
+[2024.12.06-23.53.17:530][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.06-23.53.17:555][910]LogStall: Shutdown...
+[2024.12.06-23.53.17:560][910]LogStall: Shutdown complete.
+[2024.12.06-23.53.17:662][910]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.06-23.53.17:663][910]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.17:663][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.53.17:752][910]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.06-23.53.17:752][910]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.17:752][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.53.17:847][910]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.17:847][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.53.17:970][910]LogSlate: Window 'Curso42 - Unreal Editor' being destroyed
+[2024.12.06-23.53.18:342][911]Cmd: QUIT_EDITOR
+[2024.12.06-23.53.18:342][911]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.12.06-23.53.18:398][911]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.12.06-23.53.18:398][911]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.12.06-23.53.18:398][911]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.12.06-23.53.18:455][911]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.18:455][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.53.18:487][911]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.12.06-23.53.18:865][911]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.12.06-23.53.19:621][911]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.12.06-23.53.19:621][911]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.12.06-23.53.19:621][911]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2024.12.06-23.53.19:621][911]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2024.12.06-23.53.19:621][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.06-23.53.19:624][911]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.12.06-23.53.19:649][911]LogAudio: Display: Audio Device Manager Shutdown
+[2024.12.06-23.53.19:650][911]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2024.12.06-23.53.19:692][911]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.12.06-23.53.19:720][911]LogExit: Preparing to exit.
+[2024.12.06-23.53.20:232][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.12.06-23.53.20:253][911]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:254][911]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:255][911]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.20:256][911]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.12.06-23.53.22:188][911]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:191][911]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:194][911]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:196][911]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:199][911]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:201][911]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:204][911]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:207][911]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:210][911]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:213][911]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:215][911]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:217][911]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:220][911]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:222][911]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:224][911]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:227][911]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:230][911]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:232][911]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:235][911]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:238][911]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.53.22:776][911]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.12.06-23.53.23:053][911]LogExit: Editor shut down
+[2024.12.06-23.53.23:073][911]LogExit: Transaction tracking system shut down
+[2024.12.06-23.53.27:747][911]LogExit: Object subsystem successfully closed.
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: Total job queries 66, among them cache hits 4 (6.06%)
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: Tracking 62 distinct input hashes that result in 52 distinct outputs (83.87%)
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: RAM used: 1,37 MiB of 819,20 MiB budget. Usage: 0.17%
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.12.06-23.53.27:755][911]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.53.27:828][911]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.12.06-23.53.28:063][911]LogVirtualization: UE::Virtualization was shutdown
+[2024.12.06-23.53.30:167][911]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1052)
+[2024.12.06-23.53.30:167][911]LogModuleManager: Shutting down and abandoning module Voice (1050)
+[2024.12.06-23.53.30:171][911]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1048)
+[2024.12.06-23.53.30:172][911]LogModuleManager: Shutting down and abandoning module AddContentDialog (1046)
+[2024.12.06-23.53.30:188][911]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1045)
+[2024.12.06-23.53.30:188][911]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1042)
+[2024.12.06-23.53.30:188][911]LogModuleManager: Shutting down and abandoning module SceneOutliner (1040)
+[2024.12.06-23.53.30:188][911]LogModuleManager: Shutting down and abandoning module StatusBar (1038)
+[2024.12.06-23.53.30:188][911]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1036)
+[2024.12.06-23.53.30:188][911]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1034)
+[2024.12.06-23.53.30:188][911]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1032)
+[2024.12.06-23.53.30:198][911]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1030)
+[2024.12.06-23.53.30:198][911]LogModuleManager: Shutting down and abandoning module StatsViewer (1028)
+[2024.12.06-23.53.30:229][911]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1026)
+[2024.12.06-23.53.30:229][911]LogModuleManager: Shutting down and abandoning module AutomationWorker (1024)
+[2024.12.06-23.53.30:229][911]LogModuleManager: Shutting down and abandoning module SmartSnapping (1022)
+[2024.12.06-23.53.30:229][911]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1020)
+[2024.12.06-23.53.30:229][911]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1018)
+[2024.12.06-23.53.30:229][911]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1016)
+[2024.12.06-23.53.30:237][911]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (1014)
+[2024.12.06-23.53.30:237][911]LogModuleManager: Shutting down and abandoning module WebMMedia (1012)
+[2024.12.06-23.53.30:243][911]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (1010)
+[2024.12.06-23.53.30:260][911]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (1008)
+[2024.12.06-23.53.30:293][911]LogModuleManager: Shutting down and abandoning module SequenceRecorder (1007)
+[2024.12.06-23.53.30:306][911]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (1004)
+[2024.12.06-23.53.30:320][911]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (1002)
+[2024.12.06-23.53.30:320][911]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (1000)
+[2024.12.06-23.53.30:332][911]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (998)
+[2024.12.06-23.53.30:332][911]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (996)
+[2024.12.06-23.53.30:332][911]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (994)
+[2024.12.06-23.53.30:332][911]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (992)
+[2024.12.06-23.53.30:332][911]LogModuleManager: Shutting down and abandoning module TextureAlignMode (990)
+[2024.12.06-23.53.30:348][911]LogModuleManager: Shutting down and abandoning module BspMode (988)
+[2024.12.06-23.53.30:361][911]LogModuleManager: Shutting down and abandoning module GeometryMode (986)
+[2024.12.06-23.53.30:375][911]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (984)
+[2024.12.06-23.53.30:375][911]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (982)
+[2024.12.06-23.53.30:399][911]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (980)
+[2024.12.06-23.53.30:412][911]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (978)
+[2024.12.06-23.53.30:443][911]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (976)
+[2024.12.06-23.53.30:469][911]LogModuleManager: Shutting down and abandoning module PlanarCut (974)
+[2024.12.06-23.53.30:492][911]LogModuleManager: Shutting down and abandoning module FractureEngine (972)
+[2024.12.06-23.53.30:508][911]LogModuleManager: Shutting down and abandoning module CharacterAI (970)
+[2024.12.06-23.53.30:508][911]LogModuleManager: Shutting down and abandoning module WaveTableEditor (968)
+[2024.12.06-23.53.30:531][911]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (966)
+[2024.12.06-23.53.30:531][911]LogModuleManager: Shutting down and abandoning module RigVMEditor (964)
+[2024.12.06-23.53.30:568][911]LogModuleManager: Shutting down and abandoning module GooglePADEditor (962)
+[2024.12.06-23.53.30:568][911]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (960)
+[2024.12.06-23.53.30:568][911]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (958)
+[2024.12.06-23.53.30:568][911]LogModuleManager: Shutting down and abandoning module IKRigEditor (956)
+[2024.12.06-23.53.30:596][911]LogModuleManager: Shutting down and abandoning module ControlRigEditor (954)
+[2024.12.06-23.53.30:642][911]LogModuleManager: Shutting down and abandoning module SessionServices (952)
+[2024.12.06-23.53.30:643][911]LogModuleManager: Shutting down and abandoning module MeshPaint (950)
+[2024.12.06-23.53.30:644][911]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (948)
+[2024.12.06-23.53.30:655][911]LogModuleManager: Shutting down and abandoning module PlacementMode (947)
+[2024.12.06-23.53.30:676][911]LogModuleManager: Shutting down and abandoning module FoliageEdit (944)
+[2024.12.06-23.53.30:693][911]LogModuleManager: Shutting down and abandoning module LandscapeEditor (942)
+[2024.12.06-23.53.30:746][911]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (940)
+[2024.12.06-23.53.30:762][911]LogModuleManager: Shutting down and abandoning module ActorPickerMode (938)
+[2024.12.06-23.53.30:762][911]LogModuleManager: Shutting down and abandoning module ViewportSnapping (936)
+[2024.12.06-23.53.30:762][911]LogModuleManager: Shutting down and abandoning module EditorWidgets (934)
+[2024.12.06-23.53.30:762][911]LogModuleManager: Shutting down and abandoning module ViewportInteraction (932)
+[2024.12.06-23.53.30:762][911]LogModuleManager: Shutting down and abandoning module ClothPainter (930)
+[2024.12.06-23.53.30:800][911]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (929)
+[2024.12.06-23.53.30:816][911]LogModuleManager: Shutting down and abandoning module WidgetRegistration (926)
+[2024.12.06-23.53.30:833][911]LogModuleManager: Shutting down and abandoning module LogVisualizer (924)
+[2024.12.06-23.53.30:853][911]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (922)
+[2024.12.06-23.53.30:853][911]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (920)
+[2024.12.06-23.53.30:853][911]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (919)
+[2024.12.06-23.53.30:880][911]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (917)
+[2024.12.06-23.53.31:287][911]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (914)
+[2024.12.06-23.53.31:287][911]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (912)
+[2024.12.06-23.53.31:287][911]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (910)
+[2024.12.06-23.53.31:287][911]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (908)
+[2024.12.06-23.53.31:287][911]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (906)
+[2024.12.06-23.53.31:288][911]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (904)
+[2024.12.06-23.53.31:288][911]LogModuleManager: Shutting down and abandoning module AnimationSettings (902)
+[2024.12.06-23.53.31:288][911]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (900)
+[2024.12.06-23.53.31:288][911]LogModuleManager: Shutting down and abandoning module CSVtoSVG (898)
+[2024.12.06-23.53.31:288][911]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (896)
+[2024.12.06-23.53.31:321][911]LogModuleManager: Shutting down and abandoning module EditorConfig (894)
+[2024.12.06-23.53.31:321][911]LogModuleManager: Shutting down and abandoning module EditorFramework (892)
+[2024.12.06-23.53.31:321][911]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (890)
+[2024.12.06-23.53.31:340][911]LogModuleManager: Shutting down and abandoning module TraceInsights (888)
+[2024.12.06-23.53.31:441][911]MemoryProfiler: Shutdown
+[2024.12.06-23.53.31:452][911]NetworkingProfiler: Shutdown
+[2024.12.06-23.53.31:464][911]LoadingProfiler: Shutdown
+[2024.12.06-23.53.31:464][911]TimingProfiler: Shutdown
+[2024.12.06-23.53.31:515][911]LogModuleManager: Shutting down and abandoning module TraceServices (887)
+[2024.12.06-23.53.31:542][911]LogModuleManager: Shutting down and abandoning module TraceAnalysis (886)
+[2024.12.06-23.53.31:542][911]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (882)
+[2024.12.06-23.53.31:542][911]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (881)
+[2024.12.06-23.53.31:542][911]LogModuleManager: Shutting down and abandoning module InputBindingEditor (878)
+[2024.12.06-23.53.31:542][911]LogModuleManager: Shutting down and abandoning module MergeActors (876)
+[2024.12.06-23.53.31:558][911]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (874)
+[2024.12.06-23.53.31:569][911]LogModuleManager: Shutting down and abandoning module LocalizationService (873)
+[2024.12.06-23.53.31:594][911]LogModuleManager: Shutting down and abandoning module HardwareTargeting (870)
+[2024.12.06-23.53.31:594][911]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (868)
+[2024.12.06-23.53.31:603][911]LogModuleManager: Shutting down and abandoning module UndoHistory (866)
+[2024.12.06-23.53.31:610][911]LogModuleManager: Shutting down and abandoning module XmlParser (864)
+[2024.12.06-23.53.31:618][911]LogModuleManager: Shutting down and abandoning module Blutility (862)
+[2024.12.06-23.53.31:632][911]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (860)
+[2024.12.06-23.53.31:632][911]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (859)
+[2024.12.06-23.53.31:633][911]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (856)
+[2024.12.06-23.53.31:633][911]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (855)
+[2024.12.06-23.53.31:633][911]LogModuleManager: Shutting down and abandoning module SettingsEditor (852)
+[2024.12.06-23.53.31:633][911]LogModuleManager: Shutting down and abandoning module ProjectLauncher (850)
+[2024.12.06-23.53.31:640][911]LogModuleManager: Shutting down and abandoning module SessionFrontend (848)
+[2024.12.06-23.53.31:662][911]LogModuleManager: Shutting down and abandoning module ProfilerClient (846)
+[2024.12.06-23.53.31:680][911]LogModuleManager: Shutting down and abandoning module DeviceManager (844)
+[2024.12.06-23.53.31:693][911]LogModuleManager: Shutting down and abandoning module AutomationController (842)
+[2024.12.06-23.53.31:693][911]LogModuleManager: Shutting down and abandoning module AutomationWindow (840)
+[2024.12.06-23.53.31:739][911]LogModuleManager: Shutting down and abandoning module Layers (838)
+[2024.12.06-23.53.31:796][911]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (836)
+[2024.12.06-23.53.31:813][911]LogModuleManager: Shutting down and abandoning module DetailCustomizations (834)
+[2024.12.06-23.53.31:823][911]LogModuleManager: Shutting down and abandoning module PackagesDialog (832)
+[2024.12.06-23.53.31:839][911]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (830)
+[2024.12.06-23.53.31:873][911]LogModuleManager: Shutting down and abandoning module Persona (828)
+[2024.12.06-23.53.31:889][911]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (827)
+[2024.12.06-23.53.31:906][911]LogModuleManager: Shutting down and abandoning module Kismet (824)
+[2024.12.06-23.53.31:943][911]LogModuleManager: Shutting down and abandoning module KismetWidgets (823)
+[2024.12.06-23.53.31:943][911]LogModuleManager: Shutting down and abandoning module GraphEditor (820)
+[2024.12.06-23.53.31:945][911]LogModuleManager: Shutting down and abandoning module StructViewer (818)
+[2024.12.06-23.53.31:945][911]LogModuleManager: Shutting down and abandoning module ClassViewer (816)
+[2024.12.06-23.53.31:949][911]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (814)
+[2024.12.06-23.53.31:949][911]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (812)
+[2024.12.06-23.53.31:949][911]LogModuleManager: Shutting down and abandoning module SourceControlWindows (810)
+[2024.12.06-23.53.31:969][911]LogModuleManager: Shutting down and abandoning module OutputLog (808)
+[2024.12.06-23.53.31:977][911]LogModuleManager: Shutting down and abandoning module Documentation (806)
+[2024.12.06-23.53.31:978][911]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (804)
+[2024.12.06-23.53.31:994][911]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (802)
+[2024.12.06-23.53.31:995][911]LogModuleManager: Shutting down and abandoning module MovieScene (800)
+[2024.12.06-23.53.32:002][911]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (798)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (796)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (794)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module AudioMixer (793)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module AudioMixerCore (792)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module LauncherPlatform (788)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module AnalyticsET (786)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module PortalServices (784)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module PortalRpc (782)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module MessagingRpc (780)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module AIModule (778)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module GameplayDebugger (777)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module AITestSuite (775)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module NavigationSystem (773)
+[2024.12.06-23.53.32:016][911]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (770)
+[2024.12.06-23.53.32:027][911]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (768)
+[2024.12.06-23.53.32:027][911]LogModuleManager: Shutting down and abandoning module TypedElementFramework (766)
+[2024.12.06-23.53.32:027][911]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (764)
+[2024.12.06-23.53.32:027][911]LogModuleManager: Shutting down and abandoning module ProfilerService (762)
+[2024.12.06-23.53.32:205][911]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (760)
+[2024.12.06-23.53.32:250][911]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (758)
+[2024.12.06-23.53.32:250][911]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (756)
+[2024.12.06-23.53.32:296][911]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (754)
+[2024.12.06-23.53.32:301][911]LogModuleManager: Shutting down and abandoning module TakesCore (752)
+[2024.12.06-23.53.32:311][911]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (750)
+[2024.12.06-23.53.32:311][911]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (748)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module LightMixer (746)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (744)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (742)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (740)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (738)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module CollectionManager (737)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module TakeSequencer (734)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module TakeMovieScene (732)
+[2024.12.06-23.53.32:342][911]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (728)
+[2024.12.06-23.53.32:362][911]LogModuleManager: Shutting down and abandoning module InterchangeTests (726)
+[2024.12.06-23.53.32:378][911]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (724)
+[2024.12.06-23.53.32:378][911]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (722)
+[2024.12.06-23.53.32:378][911]LogModuleManager: Shutting down and abandoning module Paper2DEditor (720)
+[2024.12.06-23.53.32:388][911]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (718)
+[2024.12.06-23.53.32:398][911]LogModuleManager: Shutting down and abandoning module MediaPlate (716)
+[2024.12.06-23.53.32:411][911]LogModuleManager: Shutting down and abandoning module MediaCompositing (714)
+[2024.12.06-23.53.32:411][911]LogModuleManager: Shutting down and abandoning module ImgMedia (712)
+[2024.12.06-23.53.32:426][911]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (710)
+[2024.12.06-23.53.32:440][911]LogModuleManager: Shutting down and abandoning module UVEditorTools (708)
+[2024.12.06-23.53.32:456][911]LogModuleManager: Shutting down and abandoning module UVEditor (706)
+[2024.12.06-23.53.32:460][911]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (704)
+[2024.12.06-23.53.32:460][911]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (702)
+[2024.12.06-23.53.32:460][911]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (700)
+[2024.12.06-23.53.32:468][911]LogModuleManager: Shutting down and abandoning module PluginBrowser (698)
+[2024.12.06-23.53.32:508][911]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (696)
+[2024.12.06-23.53.32:527][911]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (694)
+[2024.12.06-23.53.32:545][911]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (692)
+[2024.12.06-23.53.32:565][911]LogModuleManager: Shutting down and abandoning module UObjectPlugin (690)
+[2024.12.06-23.53.32:565][911]LogModuleManager: Shutting down and abandoning module EditorDebugTools (688)
+[2024.12.06-23.53.32:575][911]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (686)
+[2024.12.06-23.53.32:575][911]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (684)
+[2024.12.06-23.53.32:575][911]LogModuleManager: Shutting down and abandoning module CryptoKeys (682)
+[2024.12.06-23.53.32:575][911]LogModuleManager: Shutting down and abandoning module CurveEditorTools (680)
+[2024.12.06-23.53.32:614][911]LogModuleManager: Shutting down and abandoning module ChangelistReview (678)
+[2024.12.06-23.53.32:631][911]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (676)
+[2024.12.06-23.53.32:632][911]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (674)
+[2024.12.06-23.53.32:632][911]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (672)
+[2024.12.06-23.53.32:632][911]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (670)
+[2024.12.06-23.53.32:632][911]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (668)
+[2024.12.06-23.53.32:643][911]LogModuleManager: Shutting down and abandoning module PluginUtils (666)
+[2024.12.06-23.53.32:659][911]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (664)
+[2024.12.06-23.53.32:659][911]LogModuleManager: Shutting down and abandoning module GitSourceControl (662)
+[2024.12.06-23.53.32:673][911]LogModuleManager: Shutting down and abandoning module DumpGPUServices (660)
+[2024.12.06-23.53.32:673][911]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (658)
+[2024.12.06-23.53.32:685][911]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (656)
+[2024.12.06-23.53.32:685][911]LogModuleManager: Shutting down and abandoning module AlembicImporter (654)
+[2024.12.06-23.53.32:700][911]LogModuleManager: Shutting down and abandoning module AlembicLibrary (653)
+[2024.12.06-23.53.32:713][911]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (650)
+[2024.12.06-23.53.32:713][911]LogModuleManager: Shutting down and abandoning module VariantManager (648)
+[2024.12.06-23.53.32:747][911]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (647)
+[2024.12.06-23.53.32:747][911]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (644)
+[2024.12.06-23.53.32:755][911]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (642)
+[2024.12.06-23.53.32:755][911]LogModuleManager: Shutting down and abandoning module SequencerScripting (640)
+[2024.12.06-23.53.32:755][911]LogModuleManager: Shutting down and abandoning module TemplateSequence (638)
+[2024.12.06-23.53.32:765][911]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (636)
+[2024.12.06-23.53.32:778][911]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (634)
+[2024.12.06-23.53.32:778][911]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (632)
+[2024.12.06-23.53.32:787][911]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (630)
+[2024.12.06-23.53.32:787][911]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (628)
+[2024.12.06-23.53.32:787][911]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (626)
+[2024.12.06-23.53.32:787][911]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (624)
+[2024.12.06-23.53.32:787][911]LogOpenImageDenoise: OIDN shutting down
+[2024.12.06-23.53.32:803][911]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (622)
+[2024.12.06-23.53.32:803][911]LogModuleManager: Shutting down and abandoning module LocalizableMessage (620)
+[2024.12.06-23.53.32:803][911]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (618)
+[2024.12.06-23.53.32:803][911]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (616)
+[2024.12.06-23.53.32:820][911]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (614)
+[2024.12.06-23.53.32:849][911]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (612)
+[2024.12.06-23.53.32:863][911]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (610)
+[2024.12.06-23.53.32:883][911]LogModuleManager: Shutting down and abandoning module MeshLODToolset (608)
+[2024.12.06-23.53.32:883][911]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (606)
+[2024.12.06-23.53.32:891][911]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (604)
+[2024.12.06-23.53.32:900][911]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (602)
+[2024.12.06-23.53.32:909][911]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (600)
+[2024.12.06-23.53.32:909][911]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (598)
+[2024.12.06-23.53.32:909][911]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (597)
+[2024.12.06-23.53.32:909][911]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (595)
+[2024.12.06-23.53.32:909][911]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (592)
+[2024.12.06-23.53.32:918][911]LogModuleManager: Shutting down and abandoning module DataflowNodes (590)
+[2024.12.06-23.53.32:918][911]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (588)
+[2024.12.06-23.53.32:918][911]LogModuleManager: Shutting down and abandoning module DataflowEditor (586)
+[2024.12.06-23.53.32:932][911]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (584)
+[2024.12.06-23.53.32:932][911]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (582)
+[2024.12.06-23.53.32:932][911]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (580)
+[2024.12.06-23.53.32:932][911]LogModuleManager: Shutting down and abandoning module ChaosNiagara (578)
+[2024.12.06-23.53.32:941][911]LogModuleManager: Shutting down and abandoning module FractureEditor (576)
+[2024.12.06-23.53.32:969][911]LogModuleManager: Shutting down and abandoning module BackChannel (574)
+[2024.12.06-23.53.32:982][911]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (572)
+[2024.12.06-23.53.32:982][911]LogModuleManager: Shutting down and abandoning module AutomationUtils (570)
+[2024.12.06-23.53.32:982][911]LogModuleManager: Shutting down and abandoning module SynthesisEditor (568)
+[2024.12.06-23.53.32:982][911]LogModuleManager: Shutting down and abandoning module ResonanceAudio (566)
+[2024.12.06-23.53.32:982][911]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (564)
+[2024.12.06-23.53.32:982][911]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (562)
+[2024.12.06-23.53.32:982][911]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (560)
+[2024.12.06-23.53.32:983][911]LogModuleManager: Shutting down and abandoning module ModelingOperators (558)
+[2024.12.06-23.53.32:993][911]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (556)
+[2024.12.06-23.53.32:993][911]LogModuleManager: Shutting down and abandoning module ModelingComponents (554)
+[2024.12.06-23.53.33:008][911]LogModuleManager: Shutting down and abandoning module GeometryFramework (553)
+[2024.12.06-23.53.33:021][911]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (550)
+[2024.12.06-23.53.33:037][911]LogModuleManager: Shutting down and abandoning module MeshModelingTools (548)
+[2024.12.06-23.53.33:050][911]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (546)
+[2024.12.06-23.53.33:050][911]LogModuleManager: Shutting down and abandoning module InputDebugging (544)
+[2024.12.06-23.53.33:050][911]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2024.12.06-23.53.33:050][911]LogModuleManager: Shutting down and abandoning module DynamicMesh (540)
+[2024.12.06-23.53.33:068][911]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (538)
+[2024.12.06-23.53.33:078][911]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (536)
+[2024.12.06-23.53.33:078][911]LogModuleManager: Shutting down and abandoning module GeometryCache (534)
+[2024.12.06-23.53.33:078][911]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (532)
+[2024.12.06-23.53.33:078][911]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (530)
+[2024.12.06-23.53.33:086][911]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (528)
+[2024.12.06-23.53.33:086][911]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (526)
+[2024.12.06-23.53.33:086][911]LogModuleManager: Shutting down and abandoning module AssetTags (524)
+[2024.12.06-23.53.33:086][911]LogModuleManager: Shutting down and abandoning module AudioCapture (522)
+[2024.12.06-23.53.33:086][911]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (521)
+[2024.12.06-23.53.33:095][911]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (518)
+[2024.12.06-23.53.33:095][911]LogModuleManager: Shutting down and abandoning module AppleImageUtils (516)
+[2024.12.06-23.53.33:095][911]LogModuleManager: Shutting down and abandoning module AndroidPermission (514)
+[2024.12.06-23.53.33:095][911]LogModuleManager: Shutting down and abandoning module ControlRigSpline (512)
+[2024.12.06-23.53.33:095][911]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (510)
+[2024.12.06-23.53.33:111][911]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (508)
+[2024.12.06-23.53.33:111][911]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (506)
+[2024.12.06-23.53.33:140][911]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (504)
+[2024.12.06-23.53.33:152][911]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (502)
+[2024.12.06-23.53.33:152][911]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (500)
+[2024.12.06-23.53.33:156][911]LogModuleManager: Shutting down and abandoning module InterchangeExport (498)
+[2024.12.06-23.53.33:156][911]LogModuleManager: Shutting down and abandoning module InterchangeMessages (496)
+[2024.12.06-23.53.33:156][911]LogModuleManager: Shutting down and abandoning module GLTFCore (494)
+[2024.12.06-23.53.33:156][911]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (492)
+[2024.12.06-23.53.33:156][911]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (490)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module InterchangeEditor (488)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (486)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (484)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (482)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2024.12.06-23.53.33:175][911]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2024.12.06-23.53.33:186][911]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2024.12.06-23.53.33:199][911]LogModuleManager: Shutting down and abandoning module Paper2D (470)
+[2024.12.06-23.53.33:199][911]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (468)
+[2024.12.06-23.53.33:199][911]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (466)
+[2024.12.06-23.53.33:199][911]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (464)
+[2024.12.06-23.53.33:199][911]LogModuleManager: Shutting down and abandoning module FacialAnimation (462)
+[2024.12.06-23.53.33:199][911]LogModuleManager: Shutting down and abandoning module DataValidation (460)
+[2024.12.06-23.53.33:199][911]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (458)
+[2024.12.06-23.53.33:226][911]LogModuleManager: Shutting down and abandoning module TreeMap (457)
+[2024.12.06-23.53.33:241][911]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (454)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (452)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module AnimationSharing (450)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module GameplayCameras (448)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module ActorSequence (446)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module StructUtils (444)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (442)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module PBIK (440)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module FullBodyIK (438)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (436)
+[2024.12.06-23.53.33:268][911]LogModuleManager: Shutting down and abandoning module TakeRecorder (435)
+[2024.12.06-23.53.33:291][911]LogModuleManager: Shutting down and abandoning module LevelEditor (433)
+[2024.12.06-23.53.33:369][911]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (432)
+[2024.12.06-23.53.33:390][911]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (430)
+[2024.12.06-23.53.33:390][911]LogModuleManager: Shutting down and abandoning module MainFrame (428)
+[2024.12.06-23.53.33:390][911]LogModuleManager: Shutting down and abandoning module HotReload (427)
+[2024.12.06-23.53.33:391][911]LogModuleManager: Shutting down and abandoning module ChaosCaching (422)
+[2024.12.06-23.53.33:391][911]LogModuleManager: Shutting down and abandoning module Synthesis (420)
+[2024.12.06-23.53.33:410][911]LogModuleManager: Shutting down and abandoning module SignificanceManager (418)
+[2024.12.06-23.53.33:410][911]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (416)
+[2024.12.06-23.53.33:410][911]LogModuleManager: Shutting down and abandoning module RigVM (414)
+[2024.12.06-23.53.33:410][911]LogModuleManager: Shutting down and abandoning module SoundFields (412)
+[2024.12.06-23.53.33:410][911]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (410)
+[2024.12.06-23.53.33:417][911]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (408)
+[2024.12.06-23.53.33:431][911]LogModuleManager: Shutting down and abandoning module MetasoundEditor (406)
+[2024.12.06-23.53.33:468][911]LogModuleManager: Shutting down and abandoning module AudioWidgets (405)
+[2024.12.06-23.53.33:482][911]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (404)
+[2024.12.06-23.53.33:505][911]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (400)
+[2024.12.06-23.53.33:521][911]LogModuleManager: Shutting down and abandoning module MetasoundEngine (398)
+[2024.12.06-23.53.33:521][911]LogModuleManager: Shutting down and abandoning module WaveTable (397)
+[2024.12.06-23.53.33:521][911]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (395)
+[2024.12.06-23.53.33:521][911]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (392)
+[2024.12.06-23.53.33:536][911]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (390)
+[2024.12.06-23.53.33:558][911]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (388)
+[2024.12.06-23.53.33:563][911]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (386)
+[2024.12.06-23.53.33:565][911]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (384)
+[2024.12.06-23.53.33:566][911]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (382)
+[2024.12.06-23.53.33:566][911]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (380)
+[2024.12.06-23.53.33:566][911]LogModuleManager: Shutting down and abandoning module CableComponent (378)
+[2024.12.06-23.53.33:566][911]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2024.12.06-23.53.33:581][911]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (375)
+[2024.12.06-23.53.33:581][911]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (372)
+[2024.12.06-23.53.33:581][911]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (370)
+[2024.12.06-23.53.33:581][911]LogModuleManager: Shutting down and abandoning module IKRig (368)
+[2024.12.06-23.53.33:581][911]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (366)
+[2024.12.06-23.53.33:581][911]LogModuleManager: Shutting down and abandoning module ControlRig (364)
+[2024.12.06-23.53.33:591][911]LogModuleManager: Shutting down and abandoning module Constraints (363)
+[2024.12.06-23.53.33:591][911]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (360)
+[2024.12.06-23.53.33:591][911]LogModuleManager: Shutting down and abandoning module Niagara (358)
+[2024.12.06-23.53.33:635][911]LogModuleManager: Shutting down and abandoning module SignalProcessing (357)
+[2024.12.06-23.53.33:657][911]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2024.12.06-23.53.33:657][911]LogModuleManager: Shutting down and abandoning module LevelSequence (354)
+[2024.12.06-23.53.33:657][911]LogModuleManager: Shutting down and abandoning module ContentBrowser (352)
+[2024.12.06-23.53.33:658][911]LogModuleManager: Shutting down and abandoning module ToolMenus (351)
+[2024.12.06-23.53.33:658][911]LogModuleManager: Shutting down and abandoning module ContentBrowserData (349)
+[2024.12.06-23.53.33:658][911]LogModuleManager: Shutting down and abandoning module NiagaraCore (344)
+[2024.12.06-23.53.33:658][911]LogModuleManager: Shutting down and abandoning module UdpMessaging (342)
+[2024.12.06-23.53.33:759][911]LogModuleManager: Shutting down and abandoning module TcpMessaging (340)
+[2024.12.06-23.53.33:870][911]LogModuleManager: Shutting down and abandoning module InterchangePipelines (338)
+[2024.12.06-23.53.33:870][911]LogModuleManager: Shutting down and abandoning module InterchangeImport (336)
+[2024.12.06-23.53.33:870][911]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (334)
+[2024.12.06-23.53.33:870][911]LogModuleManager: Shutting down and abandoning module InterchangeNodes (332)
+[2024.12.06-23.53.33:870][911]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (330)
+[2024.12.06-23.53.33:903][911]LogModuleManager: Shutting down and abandoning module AnimationData (328)
+[2024.12.06-23.53.33:903][911]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2024.12.06-23.53.33:903][911]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2024.12.06-23.53.33:903][911]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2024.12.06-23.53.33:904][911]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2024.12.06-23.53.33:912][911]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (318)
+[2024.12.06-23.53.33:999][911]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2024.12.06-23.53.33:999][911]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2024.12.06-23.53.34:011][911]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2024.12.06-23.53.34:011][911]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2024.12.06-23.53.34:033][911]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2024.12.06-23.53.34:044][911]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2024.12.06-23.53.34:045][911]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2024.12.06-23.53.34:072][911]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2024.12.06-23.53.34:072][911]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2024.12.06-23.53.34:073][911]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2024.12.06-23.53.34:073][911]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2024.12.06-23.53.34:089][911]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2024.12.06-23.53.34:100][911]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2024.12.06-23.53.34:100][911]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2024.12.06-23.53.34:100][911]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2024.12.06-23.53.34:121][911]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2024.12.06-23.53.34:121][911]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2024.12.06-23.53.34:171][911]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2024.12.06-23.53.34:171][911]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2024.12.06-23.53.34:173][911]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2024.12.06-23.53.34:173][911]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2024.12.06-23.53.34:173][911]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2024.12.06-23.53.34:173][911]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2024.12.06-23.53.34:173][911]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2024.12.06-23.53.34:181][911]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2024.12.06-23.53.34:181][911]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2024.12.06-23.53.34:181][911]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2024.12.06-23.53.34:199][911]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2024.12.06-23.53.34:199][911]LogModuleManager: Shutting down and abandoning module Core (244)
+[2024.12.06-23.53.34:199][911]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2024.12.06-23.53.34:199][911]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2024.12.06-23.53.34:235][911]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2024.12.06-23.53.34:251][911]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2024.12.06-23.53.34:329][911]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2024.12.06-23.53.34:329][911]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2024.12.06-23.53.34:337][911]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2024.12.06-23.53.34:357][911]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2024.12.06-23.53.34:357][911]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2024.12.06-23.53.34:370][911]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2024.12.06-23.53.34:370][911]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2024.12.06-23.53.34:370][911]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2024.12.06-23.53.34:370][911]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2024.12.06-23.53.34:370][911]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2024.12.06-23.53.34:400][911]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2024.12.06-23.53.34:441][911]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2024.12.06-23.53.34:460][911]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2024.12.06-23.53.34:486][911]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2024.12.06-23.53.34:497][911]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2024.12.06-23.53.34:497][911]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2024.12.06-23.53.34:497][911]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2024.12.06-23.53.34:505][911]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2024.12.06-23.53.34:527][911]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2024.12.06-23.53.34:540][911]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2024.12.06-23.53.34:547][911]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.12.06-23.53.34:586][911]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2024.12.06-23.53.34:595][911]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2024.12.06-23.53.34:595][911]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2024.12.06-23.53.34:598][911]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2024.12.06-23.53.34:598][911]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2024.12.06-23.53.34:613][911]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2024.12.06-23.53.34:620][911]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2024.12.06-23.53.34:635][911]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2024.12.06-23.53.34:635][911]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2024.12.06-23.53.34:635][911]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2024.12.06-23.53.34:635][911]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2024.12.06-23.53.34:646][911]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2024.12.06-23.53.34:651][911]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2024.12.06-23.53.34:651][911]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2024.12.06-23.53.34:651][911]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2024.12.06-23.53.34:651][911]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2024.12.06-23.53.34:651][911]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2024.12.06-23.53.34:665][911]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2024.12.06-23.53.34:665][911]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2024.12.06-23.53.34:679][911]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2024.12.06-23.53.34:680][911]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2024.12.06-23.53.34:688][911]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2024.12.06-23.53.34:693][911]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2024.12.06-23.53.34:693][911]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2024.12.06-23.53.34:693][911]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2024.12.06-23.53.34:693][911]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2024.12.06-23.53.34:695][911]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2024.12.06-23.53.34:695][911]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2024.12.06-23.53.34:695][911]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2024.12.06-23.53.34:695][911]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2024.12.06-23.53.34:721][911]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2024.12.06-23.53.34:722][911]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2024.12.06-23.53.34:722][911]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2024.12.06-23.53.34:733][911]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2024.12.06-23.53.34:733][911]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (122)
+[2024.12.06-23.53.34:763][911]LogModuleManager: Shutting down and abandoning module XMPP (117)
+[2024.12.06-23.53.34:776][911]LogModuleManager: Shutting down and abandoning module WebSockets (116)
+[2024.12.06-23.53.34:825][911]LogModuleManager: Shutting down and abandoning module HTTP (113)
+[2024.12.06-23.53.34:825][911]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.12.06-23.53.34:825][911]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB0BF987-46E1-0F7F-055E-ABA754829C2B%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=22cab26d4392a8c30b21fe884f3e9917%7C01c15b6b3c154d9cbc7b14268f86f5ce%7C62968428-b6e0-4ebe-a844-e8894898d9d7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.12.06-23.53.34:888][911]LogModuleManager: Shutting down and abandoning module SSL (112)
+[2024.12.06-23.53.34:890][911]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (108)
+[2024.12.06-23.53.34:890][911]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (106)
+[2024.12.06-23.53.34:900][911]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (104)
+[2024.12.06-23.53.34:913][911]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (102)
+[2024.12.06-23.53.34:922][911]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (100)
+[2024.12.06-23.53.34:939][911]LogModuleManager: Shutting down and abandoning module WmfMedia (98)
+[2024.12.06-23.53.34:959][911]LogModuleManager: Shutting down and abandoning module Media (97)
+[2024.12.06-23.53.34:961][911]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (94)
+[2024.12.06-23.53.34:968][911]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (92)
+[2024.12.06-23.53.34:983][911]RenderDocPlugin: plugin has been unloaded.
+[2024.12.06-23.53.34:983][911]LogModuleManager: Shutting down and abandoning module PixWinPlugin (90)
+[2024.12.06-23.53.35:022][911]LogModuleManager: Shutting down and abandoning module VariantManagerContent (88)
+[2024.12.06-23.53.35:022][911]LogModuleManager: Shutting down and abandoning module GLTFExporter (86)
+[2024.12.06-23.53.35:022][911]LogModuleManager: Shutting down and abandoning module DatasmithContent (84)
+[2024.12.06-23.53.35:022][911]LogModuleManager: Shutting down and abandoning module ChaosCloth (82)
+[2024.12.06-23.53.35:053][911]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (80)
+[2024.12.06-23.53.35:053][911]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2024.12.06-23.53.35:053][911]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
+[2024.12.06-23.53.35:066][911]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (74)
+[2024.12.06-23.53.35:066][911]LogModuleManager: Shutting down and abandoning module NiagaraShader (72)
+[2024.12.06-23.53.35:066][911]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2024.12.06-23.53.35:066][911]LogModuleManager: Shutting down and abandoning module AISupportModule (68)
+[2024.12.06-23.53.35:066][911]LogModuleManager: Shutting down and abandoning module ACLPlugin (66)
+[2024.12.06-23.53.35:066][911]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2024.12.06-23.53.35:067][911]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (62)
+[2024.12.06-23.53.35:090][911]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (60)
+[2024.12.06-23.53.35:105][911]LogModuleManager: Shutting down and abandoning module SourceControl (59)
+[2024.12.06-23.53.35:117][911]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.12.06-23.53.35:117][911]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.12.06-23.53.35:127][911]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.12.06-23.53.35:127][911]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.12.06-23.53.35:127][911]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2024.12.06-23.53.35:135][911]LogXGEController: Cleaning working directory: C:/Users/Rama/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.12.06-23.53.35:135][911]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2024.12.06-23.53.35:145][911]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2024.12.06-23.53.35:156][911]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2024.12.06-23.53.35:177][911]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2024.12.06-23.53.35:211][911]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2024.12.06-23.53.35:238][911]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2024.12.06-23.53.35:238][911]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2024.12.06-23.53.35:238][911]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.12.06-23.53.35:238][911]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2024.12.06-23.53.35:253][911]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.12.06-23.53.35:253][911]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.12.06-23.53.35:257][911]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.12.06-23.53.35:292][911]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.12.06-23.53.35:292][911]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.12.06-23.53.35:308][911]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.12.06-23.53.35:308][911]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.12.06-23.53.35:308][911]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.12.06-23.53.35:322][911]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.12.06-23.53.35:322][911]LogPakFile: Destroying PakPlatformFile
+[2024.12.06-23.53.35:335][911]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.12.06-23.53.35:335][911]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.12.06-23.53.35:342][911]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.12.06-23.53.35:342][911]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.12.06-23.53.35:347][911]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.12.06-23.53.35:743][911]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.12.06-23.53.35:855][911]LogExit: Exiting.
+[2024.12.06-23.53.35:915][911]Log file closed, 12/06/24 20:53:35
