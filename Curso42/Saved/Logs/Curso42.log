@@ -1439,3 +1439,239 @@ LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variab
 [2024.12.06-23.11.24:954][307]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 646.497192
 [2024.12.06-23.11.25:954][310]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.12.06-23.11.25:954][310]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 647.163513, Update Interval: 342.736298
+[2024.12.06-23.17.15:666][358]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 997.209656
+[2024.12.06-23.17.16:799][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.06-23.17.16:799][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 997.876038, Update Interval: 310.624115
+[2024.12.06-23.17.57:155][750]LogFab: Display: {
+	"interactionType": "Open Tab",
+	"eventCategory": "Plugin",
+	"eventAction": "Click"
+}
+[2024.12.06-23.17.57:570][750]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.12.06-23.18.38:341][670]LogSlate: Window 'Fab' being destroyed
+[2024.12.06-23.18.38:353][670]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.12.06-23.18.38:353][670]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/search?q=escudo&asset_formats=fbx&is_free=1.
+[2024.12.06-23.19.45:720][824]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-23.21.08:170][442]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/carpeta_thiago/widget_blueprint/HUD.HUD
+[2024.12.06-23.21.08:178][442]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-23.21.08:184][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-23.21.08:247][442]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-23.21.08:249][442]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-23.21.08:324][442]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2024.12.06-23.21.08:401][442]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.12.06-23.21.10:173][442]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.12.06-23.21.10:428][442]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.255162s
+[2024.12.06-23.21.12:890][442]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 4.722864s (2.722864s overbudget)
+[2024.12.06-23.21.13:332][442]LogSlate: Took 0.009848 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.12.06-23.21.13:358][442]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2024.12.06-23.21.13:369][442]LogSlate: Took 0.009717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.12.06-23.21.24:550][106]LogSlate: Window 'HUD' being destroyed
+[2024.12.06-23.21.24:559][106]LogSlate: Window 'HUD' being destroyed
+[2024.12.06-23.21.24:588][106]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.21.24:596][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.21.24:620][106]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-23.21.24:620][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-23.22.38:613][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1320.149658
+[2024.12.06-23.22.39:614][385]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.06-23.22.39:615][385]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1320.825928, Update Interval: 336.120483
+[2024.12.06-23.25.33:726][380]LogInterchangeEngine: [Pending] Importing
+[2024.12.06-23.25.33:726][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downl...Shield/CartoonShield/Alça.png]
+[2024.12.06-23.25.33:728][380]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.06-23.25.33:728][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downl...Shield/CartoonShield/Print.png]
+[2024.12.06-23.25.33:729][380]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.06-23.25.33:729][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downl...Shield/CartoonShield/Print2.png]
+[2024.12.06-23.25.33:729][380]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.12.06-23.25.33:754][380]LogAssetTools: Warning: Failed to import 'C:\Users\thiag\Downloads\wc6v3f89mmf4-CartoonShield\CartoonShield/Shield.blend'. Unknown extension 'blend'.
+[2024.12.06-23.25.33:758][380]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\thiag\Downloads\wc6v3f89mmf4-CartoonShield\CartoonShield/Shield.fbx)
+[2024.12.06-23.25.33:818][380]LogFbx: Loading FBX Scene from C:\Users\thiag\Downloads\wc6v3f89mmf4-CartoonShield\CartoonShield/Shield.fbx
+[2024.12.06-23.25.33:860][380]LogFbx: FBX Scene Loaded Succesfully
+[2024.12.06-23.25.34:311][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Alça.Alça (BGRA8, 498x426 x1x1x1) (Required Memory Estimate: 6.266983 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.34:350][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Print.Print (TFO_AutoDXT, 960x540 x1x1x1) (Required Memory Estimate: 56.224609 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.34:366][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Print2.Print2 (TFO_AutoDXT, 960x540 x1x1x1) (Required Memory Estimate: 56.224609 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.34:377][380]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.06-23.25.34:377][380]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.06-23.25.34:377][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downl...Shield/CartoonShield/Round 1.png]
+[2024.12.06-23.25.34:378][380]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.06-23.25.34:378][380]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.12.06-23.25.34:418][380]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.12.06-23.25.34:430][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Round_1.Round_1 (BGRA8, 975x904 x1x1x1) (Required Memory Estimate: 25.839935 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.34:453][380]LogInterchangeEngine: [Success] Import Done
+[2024.12.06-23.25.39:221][380]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.12.06-23.25.39:443][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.06-23.25.39:446][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Alça.Alça (BGRA8, 498x426 x1x1x1) (Required Memory Estimate: 6.266983 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.39:528][380]LogFbx: Display: Triangulating static mesh Cabble
+[2024.12.06-23.25.39:811][380]LogStaticMesh: Display: Building static mesh Shield_Cabble...
+[2024.12.06-23.25.39:912][380]LogStaticMesh: Built static mesh [0.10s] /Game/carpeta_thiago/CartoonShield/Shield_Cabble.Shield_Cabble
+[2024.12.06-23.25.40:018][380]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2024.12.06-23.25.40:018][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.06-23.25.40:021][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Round_1.Round_1 (BGRA8, 975x904 x1x1x1) (Required Memory Estimate: 25.839935 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.40:055][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.06-23.25.40:057][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Wood.Wood (BGRA8, 498x426 x1x1x1) (Required Memory Estimate: 6.266983 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.40:080][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.06-23.25.40:082][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/ShieldBoll.ShieldBoll (BGRA8, 302x300 x1x1x1) (Required Memory Estimate: 2.712189 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.40:103][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.06-23.25.40:106][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/ShieldSilver.ShieldSilver (BGRA8, 188x159 x1x1x1) (Required Memory Estimate: 0.936722 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.40:121][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.06-23.25.40:123][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Wood_ncl1_1.Wood_ncl1_1 (BGRA8, 498x426 x1x1x1) (Required Memory Estimate: 6.266983 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.40:138][380]LogEditorFactories: Display: Image imported as : TSF BGRA8
+[2024.12.06-23.25.40:140][380]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/ShieldSilver_ncl1_1.ShieldSilver_ncl1_1 (BGRA8, 188x159 x1x1x1) (Required Memory Estimate: 0.936722 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.40:148][380]LogFbx: Display: Triangulating static mesh Shield
+[2024.12.06-23.25.40:566][380]LogStaticMesh: Display: Building static mesh Shield_Shield...
+[2024.12.06-23.25.40:765][380]LogStaticMesh: Built static mesh [0.20s] /Game/carpeta_thiago/CartoonShield/Shield_Shield.Shield_Shield
+[2024.12.06-23.25.40:863][380]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'Wood' was renamed 'Wood_ncl1_1' 
+[2024.12.06-23.25.40:863][380]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'ShieldSilver' was renamed 'ShieldSilver_ncl1_1' 
+[2024.12.06-23.25.40:864][380]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.12.06-23.25.40:920][380]LogInterchangeEngine: [Pending] Importing
+[2024.12.06-23.25.40:921][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downl...Shield/CartoonShield/ShieldBoll.png]
+[2024.12.06-23.25.40:922][380]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.06-23.25.40:922][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downl...Shield/CartoonShield/ShieldSilver.png]
+[2024.12.06-23.25.40:924][380]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.12.06-23.25.40:924][380]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/thiag/Downl...Shield/CartoonShield/Wood.png]
+[2024.12.06-23.25.41:054][381]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/ShieldSilver.ShieldSilver (BGRA8, 188x159 x1x1x1) (Required Memory Estimate: 0.936722 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.41:063][381]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/Wood.Wood (BGRA8, 498x426 x1x1x1) (Required Memory Estimate: 6.266983 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.41:069][381]LogTexture: Display: Building textures: /Game/carpeta_thiago/CartoonShield/ShieldBoll.ShieldBoll (BGRA8, 302x300 x1x1x1) (Required Memory Estimate: 2.712189 MB), EncodeSpeed: Fast
+[2024.12.06-23.25.41:074][381]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.12.06-23.25.41:074][381]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.12.06-23.25.41:074][381]LogInterchangeEngine: [Success] Import Done
+[2024.12.06-23.25.41:088][381]LogInterchangeEngine: [Success] Import Done
+[2024.12.06-23.25.41:102][381]LogInterchangeEngine: [Success] Import Done
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Total job queries 57, among them cache hits 2 (3.51%)
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 24 distinct outputs (85.71%)
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: RAM used: 62,54 KiB of 409,60 MiB budget. Usage: 0.01%
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Job execution time: average 1.17 s, max 1.17 s
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Job life time (pending + execution): average 1.18 s, max 1.18
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Shader code size: average 1,594 KiB, min 1,594 KiB, max 1,594 KiB
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.18 s
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Average processing rate: 0.85 jobs/sec
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Total thread time: 0,308 s
+[2024.12.06-23.25.43:286][480]LogShaderCompilers: Display: Total thread preprocess time: 0,087 s
+[2024.12.06-23.25.43:287][480]LogShaderCompilers: Display: Percentage time preprocessing: 28.13%
+[2024.12.06-23.25.43:287][480]LogShaderCompilers: Display: Effective parallelization: 0.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.12.06-23.25.43:287][480]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.12.06-23.25.43:287][480]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.12.06-23.25.43:287][480]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.12.06-23.25.43:287][480]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.31 sec, max 0.31 sec, min 0.31 sec)
+[2024.12.06-23.25.43:287][480]LogShaderCompilers: Display: ================================================
+[2024.12.06-23.25.45:240][591]LogSlate: Window 'Message Log' being destroyed
+[2024.12.06-23.25.45:248][591]LogSlate: Window 'Message Log' being destroyed
+[2024.12.06-23.25.54:107][115]LogContentBrowser: Attempting asset rename: CartoonShield -> escudo
+[2024.12.06-23.25.54:413][115]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-23.25.54:517][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/carpeta_thiago/escudo/Print2" FILE="../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Print2.uasset" SILENT=true
+[2024.12.06-23.25.54:542][115]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.020060 seconds
+[2024.12.06-23.25.54:573][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Print2
+[2024.12.06-23.25.54:573][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Print22DBC613F4968080A8914B289775FE24F.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Print2.uasset'
+[2024.12.06-23.25.54:588][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/carpeta_thiago/escudo/Alça" FILE="../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Alça.uasset" SILENT=true
+[2024.12.06-23.25.54:597][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Alça
+[2024.12.06-23.25.54:597][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/AlçaF5DEFCE54469822A829807A4F0FECB11.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Alça.uasset'
+[2024.12.06-23.25.54:602][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/carpeta_thiago/escudo/Print" FILE="../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Print.uasset" SILENT=true
+[2024.12.06-23.25.54:616][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Print
+[2024.12.06-23.25.54:616][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/PrintB6B9537140078233C6E119AFCA3ECC4A.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Print.uasset'
+[2024.12.06-23.25.54:619][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/carpeta_thiago/escudo/Round_1" FILE="../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Round_1.uasset" SILENT=true
+[2024.12.06-23.25.54:635][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Round_1
+[2024.12.06-23.25.54:635][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Round_1CA8447D346C0970696B13DBBDCA75EDE.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Round_1.uasset'
+[2024.12.06-23.25.54:663][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_Cabble
+[2024.12.06-23.25.54:663][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_CabbleF66C2A4147CD63B1013783AD9EFF553E.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_Cabble.uasset'
+[2024.12.06-23.25.56:697][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s, reporting...
+[2024.12.06-23.25.56:831][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' report submitted, and took 0.134290s
+[2024.12.06-23.25.56:833][115]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 2.138776s (0.138776s overbudget)
+[2024.12.06-23.25.56:859][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_006
+[2024.12.06-23.25.56:859][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_006BAB7C9E045A0A86D41B0388505D5D1FC.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_006.uasset'
+[2024.12.06-23.25.56:889][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_Shield
+[2024.12.06-23.25.56:889][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_Shield633B9FA7441CDA6E6838FBA09ED8F319.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_Shield.uasset'
+[2024.12.06-23.25.56:920][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_002
+[2024.12.06-23.25.56:920][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_0021CC4FB8E46636A7128B7C2B0F0AD7F06.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_002.uasset'
+[2024.12.06-23.25.56:950][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_001
+[2024.12.06-23.25.56:951][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_001618638DC4DBAA9DEA7CB159ABF0F7150.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_001.uasset'
+[2024.12.06-23.25.56:953][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/carpeta_thiago/escudo/Wood" FILE="../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Wood.uasset" SILENT=true
+[2024.12.06-23.25.56:963][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Wood
+[2024.12.06-23.25.56:963][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/WoodCD981CED471FAA07269742985F349BC1.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Wood.uasset'
+[2024.12.06-23.25.56:993][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_003
+[2024.12.06-23.25.56:993][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_003B219E271411E697A36BFD9A033D0DE50.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_003.uasset'
+[2024.12.06-23.25.57:008][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/ShieldBoll
+[2024.12.06-23.25.57:008][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/ShieldBoll04D1E2D345F3CC85CD7AAA9D0ED92E18.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/ShieldBoll.uasset'
+[2024.12.06-23.25.57:035][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/carpeta_thiago/escudo/Shield" FILE="../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield.uasset" SILENT=true
+[2024.12.06-23.25.57:039][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield
+[2024.12.06-23.25.57:039][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield269460AB4BB8883D08E28695952D99A9.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield.uasset'
+[2024.12.06-23.25.57:048][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/ShieldSilver
+[2024.12.06-23.25.57:048][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/ShieldSilver20E2E1E046FE55A17308D186EF162D6E.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/ShieldSilver.uasset'
+[2024.12.06-23.25.57:077][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_004
+[2024.12.06-23.25.57:077][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_00460CB185649ECFC68C7B5B98C0811F865.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_004.uasset'
+[2024.12.06-23.25.57:090][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Wood_ncl1_1
+[2024.12.06-23.25.57:090][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Wood_ncl1_1F4E2A48047F359647CC8EF9C3E707E15.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Wood_ncl1_1.uasset'
+[2024.12.06-23.25.57:121][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/Shield_005
+[2024.12.06-23.25.57:121][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Shield_005A60EBCDE4C295E9E0F181D9B111CE97D.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/Shield_005.uasset'
+[2024.12.06-23.25.57:130][115]LogSavePackage: Moving output files for package: /Game/carpeta_thiago/escudo/ShieldSilver_ncl1_1
+[2024.12.06-23.25.57:130][115]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/ShieldSilver_ncl1_1C2A8C9E14C14C36EB869CBB5AD67943B.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/carpeta_thiago/escudo/ShieldSilver_ncl1_1.uasset'
+[2024.12.06-23.25.57:142][115]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.72 sec
+[2024.12.06-23.25.57:449][115]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2024.12.06-23.25.57:481][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.12.06-23.25.57:499][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.12.06-23.25.57:539][115]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.06-23.25.57:539][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/Print2.Print2
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/Alça.Alça
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/Print.Print
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/Round_1.Round_1
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/carpeta_thiago/escudo/Shield_Cabble.Shield_Cabble
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/carpeta_thiago/escudo/Shield_006.Shield_006
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/carpeta_thiago/escudo/Shield_Shield.Shield_Shield
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/carpeta_thiago/escudo/Shield_002.Shield_002
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/carpeta_thiago/escudo/Shield_001.Shield_001
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/Wood.Wood
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/carpeta_thiago/escudo/Shield_003.Shield_003
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/ShieldBoll.ShieldBoll
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/carpeta_thiago/escudo/Shield.Shield
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/ShieldSilver.ShieldSilver
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/carpeta_thiago/escudo/Shield_004.Shield_004
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/Wood_ncl1_1.Wood_ncl1_1
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Material /Game/carpeta_thiago/escudo/Shield_005.Shield_005
+[2024.12.06-23.25.57:540][115]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/carpeta_thiago/escudo/ShieldSilver_ncl1_1.ShieldSilver_ncl1_1
+[2024.12.06-23.26.14:383][ 84]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.06-23.26.28:622][811]Cmd: TRANSACTION UNDO
+[2024.12.06-23.26.28:622][811]LogEditorTransaction: Undo Create Actors
+[2024.12.06-23.26.55:950][285]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Shield.Shield_Shield
+[2024.12.06-23.26.55:950][285]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Shield.Shield_Shield
+[2024.12.06-23.26.55:954][285]LogActorFactory: Actor Factory spawned StaticMesh /Game/carpeta_thiago/escudo/Shield_Shield.Shield_Shield as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.12.06-23.26.57:244][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Shield.Shield_Shield
+[2024.12.06-23.26.57:244][357]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Shield.Shield_Shield
+[2024.12.06-23.26.57:251][357]LogActorFactory: Actor Factory spawned StaticMesh /Game/carpeta_thiago/escudo/Shield_Shield.Shield_Shield as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F45C3602_1411409711
+[2024.12.06-23.27.36:007][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Cabble.Shield_Cabble
+[2024.12.06-23.27.36:007][504]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Cabble.Shield_Cabble
+[2024.12.06-23.27.36:008][504]LogActorFactory: Actor Factory spawned StaticMesh /Game/carpeta_thiago/escudo/Shield_Cabble.Shield_Cabble as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.12.06-23.27.36:825][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Cabble.Shield_Cabble
+[2024.12.06-23.27.36:825][541]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/carpeta_thiago/escudo/Shield_Cabble.Shield_Cabble
+[2024.12.06-23.27.36:829][541]LogActorFactory: Actor Factory spawned StaticMesh /Game/carpeta_thiago/escudo/Shield_Cabble.Shield_Cabble as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F45C3602_1450988712
+[2024.12.06-23.28.41:308][ 32]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1682.853271
+[2024.12.06-23.28.41:544][ 46]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.06-23.28.41:544][ 46]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1683.071533, Update Interval: 303.394867
+[2024.12.06-23.29.38:991][332]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.06-23.31.33:872][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.12.06-23.31.33:889][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW_Auto1
+[2024.12.06-23.31.33:889][672]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/2QISIGK5DJNQ05US8O8FXW_Auto16CD95AC74D5C1438048D47AE3AB8C5A1.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW_Auto1.uasset'
+[2024.12.06-23.31.33:894][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OW/P39ZMCRCRZYSQB4SBF9E6M_Auto1
+[2024.12.06-23.31.33:894][672]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/P39ZMCRCRZYSQB4SBF9E6M_Auto1F15FE74245CCA7390307FA8D259A734F.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OW/P39ZMCRCRZYSQB4SBF9E6M_Auto1.uasset'
+[2024.12.06-23.31.33:899][672]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OS/OG0MR6IAWID15QG4F3PLPW_Auto1
+[2024.12.06-23.31.33:899][672]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/OG0MR6IAWID15QG4F3PLPW_Auto14FAD5EE74655E313637EE0996E3A1886.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OS/OG0MR6IAWID15QG4F3PLPW_Auto1.uasset'
+[2024.12.06-23.31.33:905][672]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.084
+[2024.12.06-23.31.33:905][672]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.084
+[2024.12.06-23.32.59:449][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.12.06-23.33.00:654][728]LogSlate: Window 'Save Content' being destroyed
+[2024.12.06-23.33.00:668][728]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-23.33.00:738][728]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OW/P39ZMCRCRZYSQB4SBF9E6M
+[2024.12.06-23.33.00:738][728]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/P39ZMCRCRZYSQB4SBF9E6M3885FEB4489819734886AC813A9F4314.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/OW/P39ZMCRCRZYSQB4SBF9E6M.uasset'
+[2024.12.06-23.33.00:743][728]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OS/OG0MR6IAWID15QG4F3PLPW
+[2024.12.06-23.33.00:743][728]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/OG0MR6IAWID15QG4F3PLPW24B03436443F1C88E62F35808D9F772A.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OS/OG0MR6IAWID15QG4F3PLPW.uasset'
+[2024.12.06-23.33.00:750][728]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW
+[2024.12.06-23.33.00:752][728]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/2QISIGK5DJNQ05US8O8FXWCD7D7DB1464D9B586CFBC6B37D5C4823.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset'
+[2024.12.06-23.33.00:771][728]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.83 sec)
+[2024.12.06-23.33.00:787][728]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.06-23.33.00:787][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F45C3602_1450988712
+[2024.12.06-23.33.00:787][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F45C3602_1411409711
+[2024.12.06-23.33.00:787][728]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC5EFB00_1110535423
+[2024.12.06-23.33.07:407][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
