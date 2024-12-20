@@ -1436,3 +1436,63 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.12.20-23.16.14:897][315]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-eW7uQj0fZk2usNqqR5Gzlw-gLjm85b650W8FdmcBRCX8w]
 [2024.12.20-23.17.06:890][123]LogDerivedDataCache: C:/Users/thiag/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.269 and deleted 707 files with total size 44 MiB and 707 empty folders. Scanned 1196 files in 2137 folders with total size 61 MiB.
 [2024.12.20-23.17.24:837][128]LogSlate: Took 0.024943 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.12.20-23.20.51:335][900]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.20-23.20.55:265][ 63]LogShaderCompilers: Display: ================================================
+[2024.12.20-23.20.55:267][ 63]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.20-23.20.55:267][ 63]LogShaderCompilers: Display: Total job queries 35, among them cache hits 4 (11.43%)
+[2024.12.20-23.20.55:267][ 63]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 24 distinct outputs (85.71%)
+[2024.12.20-23.20.55:268][ 63]LogShaderCompilers: Display: RAM used: 62,66 KiB of 409,60 MiB budget. Usage: 0.01%
+[2024.12.20-23.20.55:268][ 63]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.20-23.20.55:269][ 63]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.12.20-23.20.55:269][ 63]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.12.20-23.20.55:269][ 63]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2024.12.20-23.20.55:269][ 63]LogShaderCompilers: Display: Job execution time: average 3.57 s, max 3.57 s
+[2024.12.20-23.20.55:269][ 63]LogShaderCompilers: Display: Job life time (pending + execution): average 3.60 s, max 3.60
+[2024.12.20-23.20.55:269][ 63]LogShaderCompilers: Display: Shader code size: average 1,848 KiB, min 1,848 KiB, max 1,848 KiB
+[2024.12.20-23.20.55:269][ 63]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.60 s
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Average processing rate: 0.28 jobs/sec
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Total thread time: 0,65 s
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Total thread preprocess time: 0,186 s
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Percentage time preprocessing: 28.59%
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Effective parallelization: 0.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.65 sec, max 0.65 sec, min 0.65 sec)
+[2024.12.20-23.20.55:270][ 63]LogShaderCompilers: Display: ================================================
+[2024.12.20-23.21.01:747][305]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.20-23.21.09:885][591]LogTexture: Display: Building textures: /Game/LowPolyMarket/Textures/T_Gradient.T_Gradient (TFO_AutoDXT, 64x64 x1x1x1) (Required Memory Estimate: 0.708295 MB), EncodeSpeed: Fast
+[2024.12.20-23.21.09:967][591]LogStaticMesh: Display: Building static mesh SM_Tree_Pine_06...
+[2024.12.20-23.21.10:109][591]LogStaticMesh: Built static mesh [0.15s] /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06
+[2024.12.20-23.21.10:130][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06
+[2024.12.20-23.21.10:130][591]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06
+[2024.12.20-23.21.10:152][591]LogActorFactory: Actor Factory spawned StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_7
+[2024.12.20-23.21.11:266][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06
+[2024.12.20-23.21.11:266][621]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06
+[2024.12.20-23.21.11:340][621]LogActorFactory: Actor Factory spawned StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_06.SM_Tree_Pine_06 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F4C23A02_1632141887
+[2024.12.20-23.21.15:323][749]LogMeshUtilities: Finished distance field build in 5.1s - 70x70x126 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 54% occupied, 635 triangles, SM_Tree_Pine_06
+[2024.12.20-23.21.52:332][421]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 368.269287
+[2024.12.20-23.21.52:593][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.20-23.21.52:595][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 368.514282, Update Interval: 350.313416
+[2024.12.20-23.22.43:528][766]LogStaticMesh: Display: Building static mesh SM_Tree_Pine_02...
+[2024.12.20-23.22.43:687][771]LogStaticMesh: Built static mesh [0.16s] /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02
+[2024.12.20-23.22.44:704][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02
+[2024.12.20-23.22.44:706][819]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02
+[2024.12.20-23.22.44:706][819]LogActorFactory: Actor Factory spawned StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_8
+[2024.12.20-23.22.46:159][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02
+[2024.12.20-23.22.46:159][874]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02
+[2024.12.20-23.22.46:168][874]LogActorFactory: Actor Factory spawned StaticMesh /Game/LowPolyMarket/Meshes/SM_Tree_Pine_02.SM_Tree_Pine_02 as actor: StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F4C23A02_1727028888
+[2024.12.20-23.22.48:123][951]LogMeshUtilities: Finished distance field build in 4.4s - 70x70x126 sparse distance field, 0.7Mb total, 0.0Mb always loaded, 64% occupied, 1068 triangles, SM_Tree_Pine_02
+[2024.12.20-23.23.14:565][258]LogUObjectHash: Compacting FUObjectHashTables data took  10.01ms
+[2024.12.20-23.23.15:827][258]LogSlate: Window 'Save Content' being destroyed
+[2024.12.20-23.23.15:872][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.20-23.23.16:053][258]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.042513 seconds
+[2024.12.20-23.23.16:093][258]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4C/IHTVFVP6WRNORLRU5W0PND
+[2024.12.20-23.23.16:093][258]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/IHTVFVP6WRNORLRU5W0PND9447E4454BFE002974534587BF8B464C.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/4C/IHTVFVP6WRNORLRU5W0PND.uasset'
+[2024.12.20-23.23.16:112][258]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0H/JCB6HT20ZLDDQBQ7N91EAX
+[2024.12.20-23.23.16:112][258]LogSavePackage: Moving '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Saved/JCB6HT20ZLDDQBQ7N91EAX10FAD0D6496982A7891FDC99B331DF01.tmp' to '../../../../../../Users/thiag/OneDrive/Documentos/1795Grupo3/Curso42/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0H/JCB6HT20ZLDDQBQ7N91EAX.uasset'
+[2024.12.20-23.23.16:138][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 266 ms
+[2024.12.20-23.23.16:165][258]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.20-23.23.16:165][258]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F4C23A02_1727028888
+[2024.12.20-23.23.16:168][258]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_UAID_5CFB3A7EB6F4C23A02_1632141887
